@@ -21,10 +21,10 @@ a cookies, ransomware** a programy, které se tváří jako dokument
 
 👉 **[Stáhnout nejnovější verzi](https://github.com/wbvita/bateman-AV/releases/latest)**
 
-- **`Bateman-Antivirus-0.2.0.msi`** — klasický instalátor (doporučeno).
+- **`Bateman-Antivirus-0.2.1.msi`** — klasický instalátor (doporučeno).
   Dvakrát klikni, potvrď povolení správce a hotovo. Odinstaluješ ho
   v Nastavení → Aplikace.
-- **`Bateman-AV-0.2.0-prenosna.zip`** — bez instalátoru: rozbal, spusť
+- **`Bateman-AV-0.2.1-prenosna.zip`** — bez instalátoru: rozbal, spusť
   `ZAPNOUT-BATEMAN.cmd`.
 
 > ⚠️ Program zatím **nemá digitální podpis**, takže Windows při spuštění
@@ -36,5 +36,5 @@ Bateman může běžet vedle Windows Defenderu.
 
 ## Stav
 
-Zkušební verze (0.2.0). Když něco nefunguje nebo hlásí nesmysl, založ
+Zkušební verze (0.2.1). Když něco nefunguje nebo hlásí nesmysl, založ
 [issue](https://github.com/wbvita/bateman-AV/issues).
