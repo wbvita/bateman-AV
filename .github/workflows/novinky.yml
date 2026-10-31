@@ -1,0 +1,51 @@
+# Novinky pro Bateman Antivirus: každé ráno vybere 3 velké události
+# z českých zpravodajských webů a zapíše news.json do větve `news`.
+# Bateman si ho stáhne z raw.githubusercontent.com spolu s kontrolou
+# aktualizací. Naplánované workflow běží jen z výchozí větve (main).
+name: Novinky
+
+on:
+  schedule:
+    - cron: "15 4 * * *" # 5:15 / 6:15 českého času
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+concurrency:
+  group: novinky
+  cancel-in-progress: false
+
+jobs:
+  vyber:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - name: Skript (main)
+        uses: actions/checkout@v4
+        with:
+          path: skript
+
+      - name: Větev news (předchozí dny)
+        run: |
+          git clone --depth 1 --branch news "https://x-access-token:${{ github.token }}@github.com/${{ github.repository }}.git" news \
+            || (mkdir news && cd news && git init -b news && git remote add origin "https://x-access-token:${{ github.token }}@github.com/${{ github.repository }}.git")
+
+      - name: Výběr zpráv
+        run: |
+          prev=""
+          [ -f news/news.json ] && prev="--previous news/news.json"
+          python3 skript/novinky/vyber.py --out news/news.json $prev
+
+      - name: Zápis do větve news
+        working-directory: news
+        run: |
+          git config user.name "bateman-novinky"
+          git config user.email "bateman-novinky@users.noreply.github.com"
+          git add news.json
+          if git diff --cached --quiet; then
+            echo "Beze změny."
+            exit 0
+          fi
+          git commit -m "novinky $(date -u +%Y-%m-%d)"
+          git push origin news
