@@ -31,17 +31,14 @@ souhlasem uživatele; výchozí stav je vypnuto.
 
 ## Stažení
 
-**[Nejnovější verze](https://github.com/wbvita/bateman-AV/releases/latest)**
-
-- `Bateman-Antivirus-<verze>.msi` — instalátor (doporučeno). Odinstalace
-  v Nastavení → Aplikace.
-- `Bateman-AV-<verze>-prenosna.zip` — verze bez instalátoru; po rozbalení
-  spusťte `ZAPNOUT-BATEMAN.cmd`.
+**[Stáhnout Bateman Antivirus (nejnovější verze)](https://github.com/wbvita/bateman-AV/releases/latest)** — u vydání stáhněte soubor
+`Bateman-Antivirus-<verze>.msi`, spusťte ho a potvrďte oprávnění správce.
+Další verze už Bateman nainstaluje sám. Odinstalace v Nastavení → Aplikace.
 
 Program zatím nemá certifikát pro podepisování kódu. Windows proto může
 zobrazit upozornění „Systém Windows ochránil váš počítač“; pokračujte volbou
-**Další informace → Přesto spustit**. Kontrolní součty SHA-256 jsou
-u každého vydání v souboru `SHA256SUMS.txt`.
+**Další informace → Přesto spustit**. Kontrolní součet SHA-256 instalátoru
+je v popisu každého vydání.
 
 Bateman může běžet současně s programem Microsoft Defender.
 
