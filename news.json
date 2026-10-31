@@ -1,0 +1,42 @@
+{
+ "version": 1,
+ "generated_at": "2026-10-31T14:18:40Z",
+ "days": [
+  {
+   "date": "2026-10-31",
+   "items": [
+    {
+     "category": "crypto",
+     "title": "Největší hackerská krádež v historii. Z burzy Binance zmizelo 133 miliard korun, podezření padá na KLDR",
+     "summary": "Největší kryptoměnová burza světa Binance se stala terčem útoku, který analytici označují za nejrozsáhlejší krádež v historii kryptoměn. Během asi 20 minut podvodníci ukradli kryptoměny v hodnotě 6,3 miliardy dolarů (133 miliard korun). Reuters s odvoláním na analytiky uvádí, že za útokem stáli zřejmě severokorejští hackeři.",
+     "source": "iROZHLAS",
+     "url": "https://www.irozhlas.cz/veda-technologie/technologie/nejvetsi-kradez-kryptomen-v-historii-hackersky-utok-na-binace-dopadne-na-vsechny_2610301321_mst",
+     "published_at": "2026-10-30T12:21:00Z",
+     "coverage": [
+      "Lupa.cz",
+      "iROZHLAS",
+      "Živě.cz"
+     ]
+    },
+    {
+     "category": "ai",
+     "title": "Místo mozků pro roboty tvoří rychlé čipy pro AI. U doktoranda z Oxfordu si je už zamluvil i Anthropic",
+     "summary": "Walter Goodwin plánoval původně dělat něco úplně jiného, ale náhoda tomu chtěla, že staví z Evropy konkurenci Nvidii. Teď nabral stovky milionů eur.",
+     "source": "CzechCrunch",
+     "url": "https://cc.cz/misto-mozku-pro-roboty-tvori-rychle-cipy-pro-ai-u-doktoranda-z-oxfordu-si-je-uz-zamluvil-i-anthropic/",
+     "published_at": "2026-10-31T05:30:10Z",
+     "coverage": []
+    },
+    {
+     "category": "security",
+     "title": "Trezor varuje zákazníky. V jeho peněžence se také našla deska, která tam neměla co dělat",
+     "summary": "Zákazník z Indonésie našel v peněžence Trezor Safe 5 implantovanou desku. • Deska měla odesílat přes mobilní síť frázi pro obnovení peněženky. • Firma zařízení zatím nemá, hlášení zákazníka považuje za důvěryhodné.",
+     "source": "Živě.cz",
+     "url": "https://www.zive.cz/clanky/kryptopenezenky-trezor-implantat/sc-3-a-244186/default.aspx",
+     "published_at": "2026-10-30T18:45:00Z",
+     "coverage": []
+    }
+   ]
+  }
+ ]
+}
