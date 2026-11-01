@@ -1,7 +1,30 @@
 {
  "version": 1,
- "generated_at": "2026-10-31T14:40:28Z",
+ "generated_at": "2026-11-01T11:13:39Z",
  "days": [
+  {
+   "date": "2026-11-01",
+   "items": [
+    {
+     "category": "crypto",
+     "title": "Krádež za 140 miliard se chystala den a půl. Takhle severokorejští hackeři vykradli kryptoburzu Binance",
+     "summary": "Zatímco Binance doplňuje ukradené z vlastních peněz, útočník pere kryptoměny za více než 50 miliard korun tisíci transakcí.",
+     "source": "CzechCrunch",
+     "url": "https://cc.cz/kradez-za-140-miliard-se-chystala-den-a-pul-takhle-severokorejsti-hackeri-vykradli-kryptoburzu-binance/",
+     "published_at": "2026-11-01T06:00:58Z",
+     "coverage": []
+    },
+    {
+     "category": "ai",
+     "title": "OpenAI zažilo nečekanou věc: nezájem. Nevybralo dost peněz a muselo snížit svou cenu. Končí AI boom?",
+     "summary": "Tvůrce ChatGPT chtěl nejdřív od investorů 30 miliard dolarů, pak 20 miliard. Jistých má nakonec zatím jen zhruba 11 miliard.",
+     "source": "CzechCrunch",
+     "url": "https://cc.cz/openai-zazilo-necekanou-vec-nezajem-nevybralo-dost-penez-a-muselo-snizit-svou-cenu-konci-ai-boom/",
+     "published_at": "2026-11-01T05:30:52Z",
+     "coverage": []
+    }
+   ]
+  },
   {
    "date": "2026-10-31",
    "items": [
