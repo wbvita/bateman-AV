@@ -1,7 +1,33 @@
 {
  "version": 1,
- "generated_at": "2026-11-01T11:13:39Z",
+ "generated_at": "2026-11-02T12:18:04Z",
  "days": [
+  {
+   "date": "2026-11-02",
+   "items": [
+    {
+     "category": "crypto",
+     "title": "Za rekordním útokem na Binance stojí Severní Korea, tvrdí FBI. Hackeři stále drží kryptoměny za 2,4 miliardy dolarů",
+     "summary": "Podle vyjádření FBI za rekordním hackerským útokem na kryptoměnovou burzu Binance stojí severokorejská hackerská skupina TraderTraitor. FBI zároveň vyzvala provozovatele kryptoměnových služeb, aby pomohli blokovat transakce spojené s odcizenými prostředky. Podle analýzy společnosti TRM útočníci 29.",
+     "source": "Lupa.cz",
+     "url": "https://www.lupa.cz/aktuality/za-rekordnim-utokem-na-binance-stoji-severni-korea-tvrdi-fbi-hackeri-stale-drzi-kryptomeny-za-2-4-miliardy-dolaru/?utm_source=rss&utm_medium=text&utm_campaign=rss",
+     "published_at": "2026-11-01T17:02:27Z",
+     "coverage": [
+      "Lupa.cz",
+      "Root.cz"
+     ]
+    },
+    {
+     "category": "tech",
+     "title": "Plaťte za každý přenesený gigabyte, požaduje po firmách návrh zákona, který prošel hlasováním ve Francii",
+     "summary": "Až 10 miliard eur ročně by měl podle představ francouzských levicových poslanců přinést do státní kasy nový zákon, který tesně prošel hlasováním v dolní komoře tamního parlamentu. Ukládá online firmám, aby platily speciální daň 0,055 eura (asi 1,4 Kč) za každý přenesený gigabyte dat na internetu.",
+     "source": "Lupa.cz",
+     "url": "https://www.lupa.cz/aktuality/platte-za-kazdy-preneseny-gigabyte-pozaduje-po-firmach-navrh-zakona-ktery-prosel-hlasovanim-ve-francii/?utm_source=rss&utm_medium=text&utm_campaign=rss",
+     "published_at": "2026-11-02T07:46:37Z",
+     "coverage": []
+    }
+   ]
+  },
   {
    "date": "2026-11-01",
    "items": [
