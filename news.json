@@ -1,7 +1,39 @@
 {
  "version": 1,
- "generated_at": "2026-11-05T12:14:17Z",
+ "generated_at": "2026-11-06T12:01:49Z",
  "days": [
+  {
+   "date": "2026-11-06",
+   "items": [
+    {
+     "category": "ai",
+     "title": "Jeden velký krásný výplach. Musk přišel o stovky miliard, cena Anthropicu padá, ropa zase zdražuje",
+     "summary": "Demokraté v USA chtějí brzdit datacentra a přísněji regulovat AI. Investoři odpověděli výprodejem čipařů, Tesly i SpaceX.",
+     "source": "CzechCrunch",
+     "url": "https://cc.cz/jeden-velky-krasny-vyplach-musk-prisel-o-stovky-miliard-cena-anthropicu-pada-ropa-zase-zdrazuje/",
+     "published_at": "2026-11-06T09:33:25Z",
+     "coverage": []
+    },
+    {
+     "category": "security",
+     "title": "Hackeři chtěli znehodnotit francouzské zásoby krevní plazmy. Regulaci mrazáků nastavili na 110 °C",
+     "summary": "Hackeři přenastavili mrazáky francouzské krevní banky z −30 °C na 110 °C • Noční technik včas zasáhl a zachránil veškeré zásoby krevní plazmy • Pachatelé jsou neznámí a případ vyšetřuje kyberbezpečnostní agentura",
+     "source": "Živě.cz",
+     "url": "https://vtm.zive.cz/clanky/hackeri-chteli-znehodnotit-francouzske-zasoby-krevni-plazmy-regulaci-mrazaku-nastavili-na-110-c/sc-870-a-244273/default.aspx",
+     "published_at": "2026-11-06T06:45:00Z",
+     "coverage": []
+    },
+    {
+     "category": "ai",
+     "title": "Češi koupili část Anthropicu, Musk chce konkurovat operátorům, Onsemi získává další firmu za miliardy",
+     "summary": "Sam Altman chce vaše RAMky. Raspberry Pi a grafiky zase zdražují. Google v propadu kvůli AI.",
+     "source": "Lupa.cz",
+     "url": "https://www.lupa.cz/clanky/cesi-koupili-cast-anthropicu-musk-chce-konkurovat-operatorum-onsemi-ziskava-dalsi-firmu-za-miliardy/?utm_source=rss&utm_medium=text&utm_campaign=rss",
+     "published_at": "2026-11-06T05:30:00Z",
+     "coverage": []
+    }
+   ]
+  },
   {
    "date": "2026-11-05",
    "items": [
@@ -65,29 +97,6 @@
      "source": "Živě.cz",
      "url": "https://www.zive.cz/clanky/apple-trha-rekordy-v-trzbach-i-zisku-o-iphone-duo-je-i-pres-problemy-obri-zajem/sc-3-a-244223/default.aspx",
      "published_at": "2026-11-03T12:45:00Z",
-     "coverage": []
-    }
-   ]
-  },
-  {
-   "date": "2026-11-03",
-   "items": [
-    {
-     "category": "tech",
-     "title": "Plaťte za každý přenesený gigabyte, požaduje po firmách návrh zákona, který prošel hlasováním ve Francii",
-     "summary": "Až 10 miliard eur ročně by měl podle představ francouzských levicových poslanců přinést do státní kasy nový zákon, který tesně prošel hlasováním v dolní komoře tamního parlamentu. Ukládá online firmám, aby platily speciální daň 0,055 eura (asi 1,4 Kč) za každý přenesený gigabyte dat na internetu.",
-     "source": "Lupa.cz",
-     "url": "https://www.lupa.cz/aktuality/platte-za-kazdy-preneseny-gigabyte-pozaduje-po-firmach-navrh-zakona-ktery-prosel-hlasovanim-ve-francii/?utm_source=rss&utm_medium=text&utm_campaign=rss",
-     "published_at": "2026-11-02T07:46:37Z",
-     "coverage": []
-    },
-    {
-     "category": "tech",
-     "title": "Evropská podnikatelská peněženka: co skutečně usnadní českým firmám?",
-     "summary": "Evropská podnikatelská peněženka má potenciál zjednodušit přeshraniční podnikání. O úspěchu ale nerozhodne počet jejích funkcí.",
-     "source": "Lupa.cz",
-     "url": "https://www.lupa.cz/clanky/evropska-podnikatelska-penezenka-co-skutecne-usnadni-ceskym-firmam/?utm_source=rss&utm_medium=text&utm_campaign=rss",
-     "published_at": "2026-11-03T05:30:00Z",
      "coverage": []
     }
    ]
