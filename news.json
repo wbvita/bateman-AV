@@ -1,7 +1,42 @@
 {
  "version": 1,
- "generated_at": "2026-11-06T12:01:49Z",
+ "generated_at": "2026-11-07T11:00:05Z",
  "days": [
+  {
+   "date": "2026-11-07",
+   "items": [
+    {
+     "category": "ai",
+     "title": "Onsemi za miliardy kupuje další firmu. Naváže na dodávky pro Nvidii a AI datacentra, posílí to i Česko",
+     "summary": "Majitel rožnovské továrny na čipy kupuje za 17 miliard korun firmu, která ho dostane přímo k AI čipům. • Tržby z AI datacenter mají Onsemi do konce dekády vynést přes tři miliardy dolarů ročně. • Osud plánované investice za 44 miliard korun do rožnovského závodu zůstává i nadále nejistý.",
+     "source": "Živě.cz",
+     "url": "https://www.zive.cz/clanky/onsemi-za-miliardy-kupuje-dalsi-firmu-navaze-na-dodavky-pro-nvidii-a-ai-datacentra-posili-to-i-cesko/sc-3-a-244311/default.aspx",
+     "published_at": "2026-11-07T08:45:00Z",
+     "coverage": [
+      "Lupa.cz",
+      "Živě.cz"
+     ]
+    },
+    {
+     "category": "ai",
+     "title": "Jeden velký krásný výplach. Musk přišel o stovky miliard, cena Anthropicu padá, ropa zase zdražuje",
+     "summary": "Demokraté v USA chtějí brzdit datacentra a přísněji regulovat AI. Investoři odpověděli výprodejem čipařů, Tesly i SpaceX.",
+     "source": "CzechCrunch",
+     "url": "https://cc.cz/jeden-velky-krasny-vyplach-musk-prisel-o-stovky-miliard-cena-anthropicu-pada-ropa-zase-zdrazuje/",
+     "published_at": "2026-11-06T09:33:25Z",
+     "coverage": []
+    },
+    {
+     "category": "security",
+     "title": "Hackeři chtěli znehodnotit francouzské zásoby krevní plazmy. Regulaci mrazáků nastavili na 110 °C",
+     "summary": "Hackeři přenastavili mrazáky francouzské krevní banky z −30 °C na 110 °C • Noční technik včas zasáhl a zachránil veškeré zásoby krevní plazmy • Pachatelé jsou neznámí a případ vyšetřuje kyberbezpečnostní agentura",
+     "source": "Živě.cz",
+     "url": "https://vtm.zive.cz/clanky/hackeri-chteli-znehodnotit-francouzske-zasoby-krevni-plazmy-regulaci-mrazaku-nastavili-na-110-c/sc-870-a-244273/default.aspx",
+     "published_at": "2026-11-06T06:45:00Z",
+     "coverage": []
+    }
+   ]
+  },
   {
    "date": "2026-11-06",
    "items": [
@@ -65,38 +100,6 @@
      "source": "Lupa.cz",
      "url": "https://www.lupa.cz/aktuality/poslanci-schvalili-zakon-o-digitalni-ekonomice-navrh-na-snizeni-pokut-pro-online-platformy-neprosel/?utm_source=rss&utm_medium=text&utm_campaign=rss",
      "published_at": "2026-11-05T09:02:16Z",
-     "coverage": []
-    }
-   ]
-  },
-  {
-   "date": "2026-11-04",
-   "items": [
-    {
-     "category": "crypto",
-     "title": "Falešný Homebrew, infikovaný pracovní počítač – a pak už to nešlo vypnout. Jak burza Binance přišla o 6,3 miliardy dolarů",
-     "summary": "Vývojář Binance stáhl podvržený instalátor nástroje Homebrew. • Další nakazil počítač malwarem z pracovního pohovoru. • Útočník tím ovládl podpisovou službu a vybíral horké peněženky.",
-     "source": "Živě.cz",
-     "url": "https://www.zive.cz/clanky/jak-binance-prisla-o-63-miliardy-dolaru/sc-3-a-244246/default.aspx",
-     "published_at": "2026-11-04T05:45:00Z",
-     "coverage": []
-    },
-    {
-     "category": "ai",
-     "title": "Nvidia žehná rekordnímu obchodu za 2,5 bilionu korun. Fúzi dvou firem, které málokdo zná, žene AI",
-     "summary": "Navrhují čipy pro Amazon i Google a vyrábí lasery pro datová centra. Propojením chtějí vytvořit nového šampiona pro éru AI.",
-     "source": "CzechCrunch",
-     "url": "https://cc.cz/nvidia-zehna-rekordnimu-obchodu-za-25-bilionu-korun-fuzi-dvou-firem-ktere-malokdo-zna-zene-ai/",
-     "published_at": "2026-11-03T19:00:31Z",
-     "coverage": []
-    },
-    {
-     "category": "tech",
-     "title": "Apple trhá rekordy v tržbách i zisku. O iPhone Duo je i přes problémy obří zájem",
-     "summary": "Apple má za sebou rekordní čtvrtletí s tržbami 114,5 miliardy dolarů. • Nový šéf John Ternus varuje před drahými paměťmi a nedostatkem iPhonů Duo. • Apple také naznačil, že pokročilé AI funkce by mohl časem zpoplatnit.",
-     "source": "Živě.cz",
-     "url": "https://www.zive.cz/clanky/apple-trha-rekordy-v-trzbach-i-zisku-o-iphone-duo-je-i-pres-problemy-obri-zajem/sc-3-a-244223/default.aspx",
-     "published_at": "2026-11-03T12:45:00Z",
      "coverage": []
     }
    ]
