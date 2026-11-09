@@ -1,7 +1,39 @@
 {
  "version": 1,
- "generated_at": "2026-11-08T11:14:13Z",
+ "generated_at": "2026-11-09T12:47:09Z",
  "days": [
+  {
+   "date": "2026-11-09",
+   "items": [
+    {
+     "category": "security",
+     "title": "Váš firemní chatbot může pracovat pro hackery. Světový specialista v Praze ukázal slabiny AI asistentů",
+     "summary": "Jednoduché chatboty, které mají sloužit zákazníkům na internetu, se dají zneužít jako placené AI služby. Pokud mají navíc přístup k interním systémům, mohou se stát i cestou k citlivým firemním datům.",
+     "source": "Lupa.cz",
+     "url": "https://www.lupa.cz/clanky/vas-firemni-chatbot-muze-pracovat-pro-hackery-svetovy-specialista-v-praze-ukazal-slabiny-ai-asistentu/?utm_source=rss&utm_medium=text&utm_campaign=rss",
+     "published_at": "2026-11-09T05:30:00Z",
+     "coverage": []
+    },
+    {
+     "category": "ai",
+     "title": "Nechce, aby za něj přemýšlela umělá inteligence. Američan našel v zákoně kličku a jeho zaměstnavatel ustoupil",
+     "summary": "David Durman se už třicet let řídí principy humanismu a AI se vyhýbá i v soukromí. Když ji začala prosazovat jeho univerzita, rozhodl se jednat.",
+     "source": "CzechCrunch",
+     "url": "https://cc.cz/nechce-aby-za-nej-premyslela-umela-inteligence-american-nasel-v-zakone-klicku-a-jeho-zamestnavatel-ustoupil/",
+     "published_at": "2026-11-08T15:31:52Z",
+     "coverage": []
+    },
+    {
+     "category": "security",
+     "title": "Postřehy z bezpečnosti: deset let stará zranitelnost v linuxovém jádře",
+     "summary": "V dnešním díle se podíváme na závažnou zranitelnost v linuxovém jádru, zranitelnost v OpenSSH umožňující obcházet autentizaci nebo novou vlnu útoků proti chladicím zařízením v evropských zemích…",
+     "source": "Root.cz",
+     "url": "https://www.root.cz/clanky/postrehy-z-bezpecnosti-deset-let-stara-zranitelnost-v-linuxovem-jadre/?utm_source=rss&utm_medium=text&utm_campaign=rss",
+     "published_at": "2026-11-08T23:00:10Z",
+     "coverage": []
+    }
+   ]
+  },
   {
    "date": "2026-11-08",
    "items": [
@@ -68,38 +100,6 @@
      "source": "Živě.cz",
      "url": "https://vtm.zive.cz/clanky/hackeri-chteli-znehodnotit-francouzske-zasoby-krevni-plazmy-regulaci-mrazaku-nastavili-na-110-c/sc-870-a-244273/default.aspx",
      "published_at": "2026-11-06T06:45:00Z",
-     "coverage": []
-    }
-   ]
-  },
-  {
-   "date": "2026-11-06",
-   "items": [
-    {
-     "category": "ai",
-     "title": "Jeden velký krásný výplach. Musk přišel o stovky miliard, cena Anthropicu padá, ropa zase zdražuje",
-     "summary": "Demokraté v USA chtějí brzdit datacentra a přísněji regulovat AI. Investoři odpověděli výprodejem čipařů, Tesly i SpaceX.",
-     "source": "CzechCrunch",
-     "url": "https://cc.cz/jeden-velky-krasny-vyplach-musk-prisel-o-stovky-miliard-cena-anthropicu-pada-ropa-zase-zdrazuje/",
-     "published_at": "2026-11-06T09:33:25Z",
-     "coverage": []
-    },
-    {
-     "category": "security",
-     "title": "Hackeři chtěli znehodnotit francouzské zásoby krevní plazmy. Regulaci mrazáků nastavili na 110 °C",
-     "summary": "Hackeři přenastavili mrazáky francouzské krevní banky z −30 °C na 110 °C • Noční technik včas zasáhl a zachránil veškeré zásoby krevní plazmy • Pachatelé jsou neznámí a případ vyšetřuje kyberbezpečnostní agentura",
-     "source": "Živě.cz",
-     "url": "https://vtm.zive.cz/clanky/hackeri-chteli-znehodnotit-francouzske-zasoby-krevni-plazmy-regulaci-mrazaku-nastavili-na-110-c/sc-870-a-244273/default.aspx",
-     "published_at": "2026-11-06T06:45:00Z",
-     "coverage": []
-    },
-    {
-     "category": "ai",
-     "title": "Češi koupili část Anthropicu, Musk chce konkurovat operátorům, Onsemi získává další firmu za miliardy",
-     "summary": "Sam Altman chce vaše RAMky. Raspberry Pi a grafiky zase zdražují. Google v propadu kvůli AI.",
-     "source": "Lupa.cz",
-     "url": "https://www.lupa.cz/clanky/cesi-koupili-cast-anthropicu-musk-chce-konkurovat-operatorum-onsemi-ziskava-dalsi-firmu-za-miliardy/?utm_source=rss&utm_medium=text&utm_campaign=rss",
-     "published_at": "2026-11-06T05:30:00Z",
      "coverage": []
     }
    ]
