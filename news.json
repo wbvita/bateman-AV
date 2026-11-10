@@ -1,7 +1,39 @@
 {
  "version": 1,
- "generated_at": "2026-11-09T12:47:09Z",
+ "generated_at": "2026-11-10T12:33:12Z",
  "days": [
+  {
+   "date": "2026-11-10",
+   "items": [
+    {
+     "category": "tech",
+     "title": "Konec zaostávání? EU rozdá miliardy na návrh vlastních čipů, projekt pomohli vytvořit Češi",
+     "summary": "Takzvaný evropský zákon o čipech (Chips Act) sice nezvládl cíl zvýšit klesající podíl Evropy ve výrobě čipů, ale několik továren přece jen vzniklo či vzniká. Rozjely se i další aktivity, které Chips Act obsahuje. Jde třeba o takzvané pilotní linky, kde je možné vyrábět prototypu čipů, včetně jedné nejpokročilejší na světě (pod dva nanometry v IMEC v Belgii).",
+     "source": "Lupa.cz",
+     "url": "https://www.lupa.cz/aktuality/konec-zaostavani-eu-rozda-miliardy-na-navrh-vlastnich-cipu-projekt-pomohli-vytvorit-cesi/?utm_source=rss&utm_medium=text&utm_campaign=rss",
+     "published_at": "2026-11-09T14:13:45Z",
+     "coverage": []
+    },
+    {
+     "category": "security",
+     "title": "Evropská legislativa, síťové útoky i budování komunity, OpenAlt 2026",
+     "summary": "V sobotu 7. listopadu proběhl první den 21. ročníku konference OpenAlt.",
+     "source": "Root.cz",
+     "url": "https://www.root.cz/clanky/evropska-legislativa-sitove-utoky-i-budovani-komunity-openalt-2026/?utm_source=rss&utm_medium=text&utm_campaign=rss",
+     "published_at": "2026-11-09T23:00:10Z",
+     "coverage": []
+    },
+    {
+     "category": "crypto",
+     "title": "ČNB otestovala technologii známou z kryptoměn. Chtěla by rychleji obchodovat s dluhopisy",
+     "summary": "Česká národní banka (ČNB) otestovala obchodování s vlastními dluhopisy prostřednictvím technologie, která je spojená především s bitcoinem a dalšími kryptoměnami. Využila systém distribuovaného registru (DLT) k vydání a převodům běžných korunových dluhopisů v digitální podobě, kde má dluhopis podobu digitálního tokenu. Podle guvernéra ČNB Aleše Michla je DLT „možnou platformou budoucnosti“.",
+     "source": "Lupa.cz",
+     "url": "https://www.lupa.cz/aktuality/cnb-otestovala-technologii-znamou-z-kryptomen-chtela-by-rychleji-obchodovat-s-dluhopisy/?utm_source=rss&utm_medium=text&utm_campaign=rss",
+     "published_at": "2026-11-10T09:05:06Z",
+     "coverage": []
+    }
+   ]
+  },
   {
    "date": "2026-11-09",
    "items": [
@@ -65,41 +97,6 @@
      "source": "Živě.cz",
      "url": "https://vtm.zive.cz/clanky/jedina-fotografie-obliceje-muze-odhalit-riziko-umrti-na-rakovinu-umela-inteligence-hleda-varovne-rysy/sc-870-a-244212/default.aspx",
      "published_at": "2026-11-07T06:45:00Z",
-     "coverage": []
-    }
-   ]
-  },
-  {
-   "date": "2026-11-07",
-   "items": [
-    {
-     "category": "ai",
-     "title": "Onsemi za miliardy kupuje další firmu. Naváže na dodávky pro Nvidii a AI datacentra, posílí to i Česko",
-     "summary": "Majitel rožnovské továrny na čipy kupuje za 17 miliard korun firmu, která ho dostane přímo k AI čipům. • Tržby z AI datacenter mají Onsemi do konce dekády vynést přes tři miliardy dolarů ročně. • Osud plánované investice za 44 miliard korun do rožnovského závodu zůstává i nadále nejistý.",
-     "source": "Živě.cz",
-     "url": "https://www.zive.cz/clanky/onsemi-za-miliardy-kupuje-dalsi-firmu-navaze-na-dodavky-pro-nvidii-a-ai-datacentra-posili-to-i-cesko/sc-3-a-244311/default.aspx",
-     "published_at": "2026-11-07T08:45:00Z",
-     "coverage": [
-      "Lupa.cz",
-      "Živě.cz"
-     ]
-    },
-    {
-     "category": "ai",
-     "title": "Jeden velký krásný výplach. Musk přišel o stovky miliard, cena Anthropicu padá, ropa zase zdražuje",
-     "summary": "Demokraté v USA chtějí brzdit datacentra a přísněji regulovat AI. Investoři odpověděli výprodejem čipařů, Tesly i SpaceX.",
-     "source": "CzechCrunch",
-     "url": "https://cc.cz/jeden-velky-krasny-vyplach-musk-prisel-o-stovky-miliard-cena-anthropicu-pada-ropa-zase-zdrazuje/",
-     "published_at": "2026-11-06T09:33:25Z",
-     "coverage": []
-    },
-    {
-     "category": "security",
-     "title": "Hackeři chtěli znehodnotit francouzské zásoby krevní plazmy. Regulaci mrazáků nastavili na 110 °C",
-     "summary": "Hackeři přenastavili mrazáky francouzské krevní banky z −30 °C na 110 °C • Noční technik včas zasáhl a zachránil veškeré zásoby krevní plazmy • Pachatelé jsou neznámí a případ vyšetřuje kyberbezpečnostní agentura",
-     "source": "Živě.cz",
-     "url": "https://vtm.zive.cz/clanky/hackeri-chteli-znehodnotit-francouzske-zasoby-krevni-plazmy-regulaci-mrazaku-nastavili-na-110-c/sc-870-a-244273/default.aspx",
-     "published_at": "2026-11-06T06:45:00Z",
      "coverage": []
     }
    ]
