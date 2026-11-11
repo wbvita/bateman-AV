@@ -1,7 +1,39 @@
 {
  "version": 1,
- "generated_at": "2026-11-10T12:33:12Z",
+ "generated_at": "2026-11-11T11:50:22Z",
  "days": [
+  {
+   "date": "2026-11-11",
+   "items": [
+    {
+     "category": "security",
+     "title": "Francie obvinila z útoku na mrazáky íránské revoluční gardy. Útok zničil potraviny a způsobil požáry",
+     "summary": "Francouzské úřady viní íránské revoluční gardy z rozsáhlého napadení supermarketů • Hackeři dálkově přehřáli chladicí systémy a zničili obrovské zásoby potravin • Pařížská prokuratura požaduje vydání mezinárodních zatykačů na strůjce sabotáže",
+     "source": "Živě.cz",
+     "url": "https://vtm.zive.cz/clanky/francie-obvinila-z-utoku-na-mrazaky-iranske-revolucni-gardy-utok-znicil-potraviny-a-zpusobil-pozary/sc-870-a-244369/default.aspx",
+     "published_at": "2026-11-11T06:45:00Z",
+     "coverage": []
+    },
+    {
+     "category": "crypto",
+     "title": "ČNB otestovala technologii známou z kryptoměn. Chtěla by rychleji obchodovat s dluhopisy",
+     "summary": "Česká národní banka (ČNB) otestovala obchodování s vlastními dluhopisy prostřednictvím technologie, která je spojená především s bitcoinem a dalšími kryptoměnami. Využila systém distribuovaného registru (DLT) k vydání a převodům běžných korunových dluhopisů v digitální podobě, kde má dluhopis podobu digitálního tokenu. Podle guvernéra ČNB Aleše Michla je DLT „možnou platformou budoucnosti“.",
+     "source": "Lupa.cz",
+     "url": "https://www.lupa.cz/aktuality/cnb-otestovala-technologii-znamou-z-kryptomen-chtela-by-rychleji-obchodovat-s-dluhopisy/?utm_source=rss&utm_medium=text&utm_campaign=rss",
+     "published_at": "2026-11-10T09:05:06Z",
+     "coverage": []
+    },
+    {
+     "category": "tech",
+     "title": "Startup, který má pomáhat s nedostatkem psychoterapeutů, si zajistil téměř 100 milionů. Hodlá s nimi nakupovat jiné firmy",
+     "summary": "Česká platforma Hedepy, která propojuje klienty s terapeuty, získala od investiční společnosti Orbit Capital téměř 100 milionů korun ve formě úvěrového financování. Peníze hodlá využít především na akvizice dalších firem v Evropě a mimo jiné také na AI nástroje.",
+     "source": "Lupa.cz",
+     "url": "https://www.lupa.cz/aktuality/startup-ktery-ma-pomahat-s-nedostatkem-psychoterapeutu-si-zajistil-temer-100-milionu-hodla-s-nimi-nakupovat-jine-firmy/?utm_source=rss&utm_medium=text&utm_campaign=rss",
+     "published_at": "2026-11-10T06:39:00Z",
+     "coverage": []
+    }
+   ]
+  },
   {
    "date": "2026-11-10",
    "items": [
@@ -62,41 +94,6 @@
      "source": "Root.cz",
      "url": "https://www.root.cz/clanky/postrehy-z-bezpecnosti-deset-let-stara-zranitelnost-v-linuxovem-jadre/?utm_source=rss&utm_medium=text&utm_campaign=rss",
      "published_at": "2026-11-08T23:00:10Z",
-     "coverage": []
-    }
-   ]
-  },
-  {
-   "date": "2026-11-08",
-   "items": [
-    {
-     "category": "tech",
-     "title": "Šílené hranaté auto, které kromě Elona Muska skoro nikdo nechtěl. Tesla ukončí výrobu Cybertrucku",
-     "summary": "Nejbohatší muž planety plánoval vyrábět čtvrt milionu aut ročně, loni to bylo jen 20 tisíc. Linku v Austinu teď převezme robotaxi Cybercab.",
-     "source": "CzechCrunch",
-     "url": "https://cc.cz/silene-hranate-auto-ktere-krome-elona-muska-skoro-nikdo-nechtel-tesla-ukonci-vyrobu-cybertrucku/",
-     "published_at": "2026-11-07T15:16:18Z",
-     "coverage": [
-      "CzechCrunch",
-      "Živě.cz"
-     ]
-    },
-    {
-     "category": "ai",
-     "title": "Onsemi za miliardy kupuje další firmu. Naváže na dodávky pro Nvidii a AI datacentra, posílí to i Česko",
-     "summary": "Majitel rožnovské továrny na čipy kupuje za 17 miliard korun firmu, která ho dostane přímo k AI čipům. • Tržby z AI datacenter mají Onsemi do konce dekády vynést přes tři miliardy dolarů ročně. • Osud plánované investice za 44 miliard korun do rožnovského závodu zůstává i nadále nejistý.",
-     "source": "Živě.cz",
-     "url": "https://www.zive.cz/clanky/onsemi-za-miliardy-kupuje-dalsi-firmu-navaze-na-dodavky-pro-nvidii-a-ai-datacentra-posili-to-i-cesko/sc-3-a-244311/default.aspx",
-     "published_at": "2026-11-07T08:45:00Z",
-     "coverage": []
-    },
-    {
-     "category": "ai",
-     "title": "Jediná fotografie obličeje může odhalit riziko úmrtí na rakovinu. Umělá inteligence hledá varovné rysy",
-     "summary": "Algoritmy dokážou z jediné fotografie tváře odhadnout šanci na přežití • Starší vzhled pacienta oproti skutečnému věku zvyšuje riziko úmrtí • Novou metodu je nutné ještě důkladně ověřit na rozmanitější populaci",
-     "source": "Živě.cz",
-     "url": "https://vtm.zive.cz/clanky/jedina-fotografie-obliceje-muze-odhalit-riziko-umrti-na-rakovinu-umela-inteligence-hleda-varovne-rysy/sc-870-a-244212/default.aspx",
-     "published_at": "2026-11-07T06:45:00Z",
      "coverage": []
     }
    ]
