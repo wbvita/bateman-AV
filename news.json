@@ -1,7 +1,46 @@
 {
  "version": 1,
- "generated_at": "2026-11-12T12:36:40Z",
+ "generated_at": "2026-11-13T12:07:51Z",
  "days": [
+  {
+   "date": "2026-11-13",
+   "items": [
+    {
+     "category": "tech",
+     "title": "Jensen Huang po milostných pletkách odstupuje. Nvidia hledá nového šéfa",
+     "summary": "Jensen Huang po 33 letech odstupuje z vedení Nvidie. • Poslední kapkou byl zveřejněný milostný poměr s podřízenou. • Nvidii dočasně přebírá finanční ředitelka, firma ale hledá nového šéfa.",
+     "source": "Živě.cz",
+     "url": "https://www.zive.cz/clanky/sefa-nvidie-mozna-nesesadi-spionazni-kauza-ale-vztah-spodrizenou-predstavenstvo-se-ho-udajne-chysta-odvolat/sc-3-a-244398/default.aspx",
+     "published_at": "2026-11-12T07:45:00Z",
+     "coverage": [
+      "CzechCrunch",
+      "Lupa.cz",
+      "Živě.cz"
+     ]
+    },
+    {
+     "category": "ai",
+     "title": "Rekordně zainvestovaná česká ValkaAI získala další peníze a představila AI komentátora",
+     "summary": "Český deep-tech startup ValkaAI, který už dříve v českém světě startupů zaujal zřejmě nejvyšší investicí do počátku startupu v regionu, ohlásil novou finanční injekci. Do firmy vstupují americký fond ff Venture Capital a český Look AI Ventures, celková výše investice stoupá na 13 milionů eur (kolem 317 milionů Kč).",
+     "source": "Lupa.cz",
+     "url": "https://www.lupa.cz/aktuality/rekordne-zainvestovana-ceska-valkaai-ziskala-dalsi-penize-a-predstavila-ai-komentatora/?utm_source=rss&utm_medium=text&utm_campaign=rss",
+     "published_at": "2026-11-12T11:08:08Z",
+     "coverage": [
+      "CzechCrunch",
+      "Lupa.cz"
+     ]
+    },
+    {
+     "category": "security",
+     "title": "Univerzitu Karlovu napadli hackeři. Měli získat část údajů ze studijního systému",
+     "summary": "Univerzita Karlova řeší v posledních dnech kybernetický incident. Škola uvedla, že se útočníkům podařilo proniknout přes napadenou webovou aplikaci do centrálního Studijního informačního systému (SIS). „Dosavadní technické šetření potvrdilo, že útočník neoprávněně získal a stáhl část údajů evidovaných v SIS, včetně osobních údajů.",
+     "source": "Lupa.cz",
+     "url": "https://www.lupa.cz/aktuality/univerzitu-karlovu-napadli-hackeri-meli-ziskat-cast-udaju-ze-studijniho-systemu/?utm_source=rss&utm_medium=text&utm_campaign=rss",
+     "published_at": "2026-11-13T11:07:40Z",
+     "coverage": []
+    }
+   ]
+  },
   {
    "date": "2026-11-12",
    "items": [
@@ -62,38 +101,6 @@
      "source": "Lupa.cz",
      "url": "https://www.lupa.cz/aktuality/startup-ktery-ma-pomahat-s-nedostatkem-psychoterapeutu-si-zajistil-temer-100-milionu-hodla-s-nimi-nakupovat-jine-firmy/?utm_source=rss&utm_medium=text&utm_campaign=rss",
      "published_at": "2026-11-10T06:39:00Z",
-     "coverage": []
-    }
-   ]
-  },
-  {
-   "date": "2026-11-10",
-   "items": [
-    {
-     "category": "tech",
-     "title": "Konec zaostávání? EU rozdá miliardy na návrh vlastních čipů, projekt pomohli vytvořit Češi",
-     "summary": "Takzvaný evropský zákon o čipech (Chips Act) sice nezvládl cíl zvýšit klesající podíl Evropy ve výrobě čipů, ale několik továren přece jen vzniklo či vzniká. Rozjely se i další aktivity, které Chips Act obsahuje. Jde třeba o takzvané pilotní linky, kde je možné vyrábět prototypu čipů, včetně jedné nejpokročilejší na světě (pod dva nanometry v IMEC v Belgii).",
-     "source": "Lupa.cz",
-     "url": "https://www.lupa.cz/aktuality/konec-zaostavani-eu-rozda-miliardy-na-navrh-vlastnich-cipu-projekt-pomohli-vytvorit-cesi/?utm_source=rss&utm_medium=text&utm_campaign=rss",
-     "published_at": "2026-11-09T14:13:45Z",
-     "coverage": []
-    },
-    {
-     "category": "security",
-     "title": "Evropská legislativa, síťové útoky i budování komunity, OpenAlt 2026",
-     "summary": "V sobotu 7. listopadu proběhl první den 21. ročníku konference OpenAlt.",
-     "source": "Root.cz",
-     "url": "https://www.root.cz/clanky/evropska-legislativa-sitove-utoky-i-budovani-komunity-openalt-2026/?utm_source=rss&utm_medium=text&utm_campaign=rss",
-     "published_at": "2026-11-09T23:00:10Z",
-     "coverage": []
-    },
-    {
-     "category": "crypto",
-     "title": "ČNB otestovala technologii známou z kryptoměn. Chtěla by rychleji obchodovat s dluhopisy",
-     "summary": "Česká národní banka (ČNB) otestovala obchodování s vlastními dluhopisy prostřednictvím technologie, která je spojená především s bitcoinem a dalšími kryptoměnami. Využila systém distribuovaného registru (DLT) k vydání a převodům běžných korunových dluhopisů v digitální podobě, kde má dluhopis podobu digitálního tokenu. Podle guvernéra ČNB Aleše Michla je DLT „možnou platformou budoucnosti“.",
-     "source": "Lupa.cz",
-     "url": "https://www.lupa.cz/aktuality/cnb-otestovala-technologii-znamou-z-kryptomen-chtela-by-rychleji-obchodovat-s-dluhopisy/?utm_source=rss&utm_medium=text&utm_campaign=rss",
-     "published_at": "2026-11-10T09:05:06Z",
      "coverage": []
     }
    ]
