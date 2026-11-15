@@ -1,7 +1,39 @@
 {
  "version": 1,
- "generated_at": "2026-11-14T11:24:57Z",
+ "generated_at": "2026-11-15T11:54:27Z",
  "days": [
+  {
+   "date": "2026-11-15",
+   "items": [
+    {
+     "category": "security",
+     "title": "Microsoft obnovil fungování svých služeb, o kybernetický útok nešlo. Výpadek zasáhl i Česko",
+     "summary": "Americká softwarová společnost Microsoft po pátečním celodenním výpadku obnovila funkčnost všech svých služeb. Oznámila to v příspěvku na sociální síti X. Výpadek zasáhl jak domácnosti, tak firmy a státní úřady, a to po celém světě včetně Česka.",
+     "source": "iROZHLAS",
+     "url": "https://www.irozhlas.cz/veda-technologie/technologie/microsoft-obnovil-fungovani-svych-sluzeb-o-kyberneticky-utok-neslo-vypadek_2611140939_aln",
+     "published_at": "2026-11-14T08:39:00Z",
+     "coverage": []
+    },
+    {
+     "category": "ai",
+     "title": "AI agenti rozjeli vlnu propouštění, ale i obří příležitosti. První české firmy díky nim mají miliardové tržby",
+     "summary": "Dva české startupy těží z nástupu AI agentů a jejich roční tržby už se počítají v miliardách korun. • Firmu E2B založenou absolventy Matfyzu využívají Meta, Xiaomi i Hugging Face, investoři do ní vložili 740 milionů korun. • Apify od začátku roku zdvojnásobila tržby a teď míří na stovky ...",
+     "source": "Živě.cz",
+     "url": "https://www.zive.cz/clanky/ai-agenti-rozjeli-vlnu-propousteni-ale-i-obri-prilezitosti-prvni-ceske-firmy-diky-nim-maji-miliardove-trzby/sc-3-a-244431/default.aspx",
+     "published_at": "2026-11-14T12:45:00Z",
+     "coverage": []
+    },
+    {
+     "category": "ai",
+     "title": "Umělá inteligence odhalí výtluky dřív, než se zvětší. Silnice lze mikrovlnami opravovat i v mrazu",
+     "summary": "Umělá inteligence v autech silničářů včas odhaluje začínající výtluky na vozovkách • Během necelého měsíce kamery zmapovaly 470 kilometrů silnic a našly 76 děr • Mikrovlnná technologie dokáže bezespárově opravit asfalt i při teplotách -7 °C",
+     "source": "Živě.cz",
+     "url": "https://vtm.zive.cz/clanky/umela-inteligence-odhali-vytluky-driv-nez-se-zvetsi-silnice-lze-mikrovlnami-opravovat-i-v-mrazu/sc-870-a-244445/default.aspx",
+     "published_at": "2026-11-14T10:45:00Z",
+     "coverage": []
+    }
+   ]
+  },
   {
    "date": "2026-11-14",
    "items": [
@@ -69,38 +101,6 @@
      "source": "Lupa.cz",
      "url": "https://www.lupa.cz/aktuality/univerzitu-karlovu-napadli-hackeri-meli-ziskat-cast-udaju-ze-studijniho-systemu/?utm_source=rss&utm_medium=text&utm_campaign=rss",
      "published_at": "2026-11-13T11:07:40Z",
-     "coverage": []
-    }
-   ]
-  },
-  {
-   "date": "2026-11-12",
-   "items": [
-    {
-     "category": "ai",
-     "title": "OpenAI se topí ve ztrátách, Anthropic mu byznysově utíká. A oba tlačí Nvidia, kterou asi opustí její šéf",
-     "summary": "OpenAI za čtvrtletí utržilo deset miliard dolarů, ztráta byla ještě vyšší. Anthropic při skoro dvojnásobných tržbách prodělal zlomek.",
-     "source": "CzechCrunch",
-     "url": "https://cc.cz/openai-se-topi-ve-ztratach-anthropic-mu-byznysove-utika-a-oba-tlaci-nvidia-kterou-asi-opusti-jeji-sef/",
-     "published_at": "2026-11-12T06:58:52Z",
-     "coverage": []
-    },
-    {
-     "category": "ai",
-     "title": "Z Česka zrychluje růst umělá inteligence, která hlídá lidská srdce. Její hodnotu teď investoři vytáhli na 600 milionů",
-     "summary": "Je to pár let, co začali u sklenky vína kardiolog Tomáš Skála a podnikatel Stephen Burke rozebírat způsoby, jak složitě se měří srdeční rytmus. Rozhodli se je změnit, a to tak důkladně, že hodnota jejich nápadu a jeho reálného uskutečnění v podobě medicínsko-technologického startupu Kardi Ai právě dosáhla 600 milionů Kč.",
-     "source": "Lupa.cz",
-     "url": "https://www.lupa.cz/aktuality/z-ceska-zrychluje-rust-umela-inteligence-ktera-hlida-lidska-srdce-jeji-hodnotu-ted-investori-vytahli-na-600-milionu/?utm_source=rss&utm_medium=text&utm_campaign=rss",
-     "published_at": "2026-11-11T13:45:11Z",
-     "coverage": []
-    },
-    {
-     "category": "security",
-     "title": "Francie obvinila z útoku na mrazáky íránské revoluční gardy. Útok zničil potraviny a způsobil požáry",
-     "summary": "Francouzské úřady viní íránské revoluční gardy z rozsáhlého napadení supermarketů • Hackeři dálkově přehřáli chladicí systémy a zničili obrovské zásoby potravin • Pařížská prokuratura požaduje vydání mezinárodních zatykačů na strůjce sabotáže",
-     "source": "Živě.cz",
-     "url": "https://vtm.zive.cz/clanky/francie-obvinila-z-utoku-na-mrazaky-iranske-revolucni-gardy-utok-znicil-potraviny-a-zpusobil-pozary/sc-870-a-244369/default.aspx",
-     "published_at": "2026-11-11T06:45:00Z",
      "coverage": []
     }
    ]
