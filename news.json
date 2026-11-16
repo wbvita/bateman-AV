@@ -1,7 +1,39 @@
 {
  "version": 1,
- "generated_at": "2026-11-15T11:54:27Z",
+ "generated_at": "2026-11-16T12:40:02Z",
  "days": [
+  {
+   "date": "2026-11-16",
+   "items": [
+    {
+     "category": "ai",
+     "title": "Jeho firma za 50 miliard zkrachovala, tak založil další. Teď ji kupuje OpenAI, aby změnila svět cestování",
+     "summary": "Začínal pronájmem studentského bytu, později vedl firmu za miliardy dolarů. Po jejím pádu vsadil na AI, která pomáhá lidem naplánovat dovolenou.",
+     "source": "CzechCrunch",
+     "url": "https://cc.cz/jeho-firma-za-50-miliard-zkrachovala-tak-zalozil-dalsi-ted-ji-kupuje-openai-aby-zmenila-svet-cestovani/",
+     "published_at": "2026-11-16T05:27:20Z",
+     "coverage": []
+    },
+    {
+     "category": "ai",
+     "title": "Český investor dostal zelenou na svůj životní projekt. Může začít stavět obří AI datacentrum ve Finsku",
+     "summary": "Pražská Gi21 Capital získala stavební povolení pro AI datacentrum ve Finsku s výkonem 100 megawattů. • Stavět začne v první polovině roku 2027, komplex za více než 10 miliard korun má být hotový v roce 2028. • Damir Špoljarič chce v Evropě postavit osm datacenter, investice by mohla dosáhnout ...",
+     "source": "Živě.cz",
+     "url": "https://www.zive.cz/clanky/cesky-investor-dostal-zelenou-na-svuj-zivotni-projekt-muze-zacit-stavet-obri-ai-datacentrum-ve-finsku/sc-3-a-244449/default.aspx",
+     "published_at": "2026-11-16T07:45:00Z",
+     "coverage": []
+    },
+    {
+     "category": "ai",
+     "title": "Jak umělá inteligence hlídá zrak diabetiků? A jsou operace účinnější než moderní léky na obezitu?",
+     "summary": "Paní Karolína žije s cukrovkou prvního typu už 27 let. Díky moderní inzulinové pumpě a senzoru, který nepřetržitě sleduje hladinu glukózy, se jí daří nemoc lépe zvládat. Nově jí navíc přímo v diabetologické ordinaci kontroluje zrak umělá inteligence.",
+     "source": "iROZHLAS",
+     "url": "https://www.irozhlas.cz/veda-technologie/jak-umela-inteligence-hlida-zrak-diabetiku-a-jsou-operace-ucinnejsi-nez-moderni_2611160010_bod",
+     "published_at": "2026-11-15T23:10:00Z",
+     "coverage": []
+    }
+   ]
+  },
   {
    "date": "2026-11-15",
    "items": [
@@ -62,45 +94,6 @@
      "source": "Lupa.cz",
      "url": "https://www.lupa.cz/clanky/cech-ze-stanfordu-vyzval-teslu-ceska-firma-vybavila-nejvyssi-mrakodrap-yandex-po-utoku-dronu-prisel-o-data/?utm_source=rss&utm_medium=text&utm_campaign=rss",
      "published_at": "2026-11-13T05:30:00Z",
-     "coverage": []
-    }
-   ]
-  },
-  {
-   "date": "2026-11-13",
-   "items": [
-    {
-     "category": "tech",
-     "title": "Jensen Huang po milostných pletkách odstupuje. Nvidia hledá nového šéfa",
-     "summary": "Jensen Huang po 33 letech odstupuje z vedení Nvidie. • Poslední kapkou byl zveřejněný milostný poměr s podřízenou. • Nvidii dočasně přebírá finanční ředitelka, firma ale hledá nového šéfa.",
-     "source": "Živě.cz",
-     "url": "https://www.zive.cz/clanky/sefa-nvidie-mozna-nesesadi-spionazni-kauza-ale-vztah-spodrizenou-predstavenstvo-se-ho-udajne-chysta-odvolat/sc-3-a-244398/default.aspx",
-     "published_at": "2026-11-12T07:45:00Z",
-     "coverage": [
-      "CzechCrunch",
-      "Lupa.cz",
-      "Živě.cz"
-     ]
-    },
-    {
-     "category": "ai",
-     "title": "Rekordně zainvestovaná česká ValkaAI získala další peníze a představila AI komentátora",
-     "summary": "Český deep-tech startup ValkaAI, který už dříve v českém světě startupů zaujal zřejmě nejvyšší investicí do počátku startupu v regionu, ohlásil novou finanční injekci. Do firmy vstupují americký fond ff Venture Capital a český Look AI Ventures, celková výše investice stoupá na 13 milionů eur (kolem 317 milionů Kč).",
-     "source": "Lupa.cz",
-     "url": "https://www.lupa.cz/aktuality/rekordne-zainvestovana-ceska-valkaai-ziskala-dalsi-penize-a-predstavila-ai-komentatora/?utm_source=rss&utm_medium=text&utm_campaign=rss",
-     "published_at": "2026-11-12T11:08:08Z",
-     "coverage": [
-      "CzechCrunch",
-      "Lupa.cz"
-     ]
-    },
-    {
-     "category": "security",
-     "title": "Univerzitu Karlovu napadli hackeři. Měli získat část údajů ze studijního systému",
-     "summary": "Univerzita Karlova řeší v posledních dnech kybernetický incident. Škola uvedla, že se útočníkům podařilo proniknout přes napadenou webovou aplikaci do centrálního Studijního informačního systému (SIS). „Dosavadní technické šetření potvrdilo, že útočník neoprávněně získal a stáhl část údajů evidovaných v SIS, včetně osobních údajů.",
-     "source": "Lupa.cz",
-     "url": "https://www.lupa.cz/aktuality/univerzitu-karlovu-napadli-hackeri-meli-ziskat-cast-udaju-ze-studijniho-systemu/?utm_source=rss&utm_medium=text&utm_campaign=rss",
-     "published_at": "2026-11-13T11:07:40Z",
      "coverage": []
     }
    ]
