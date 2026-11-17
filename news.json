@@ -1,7 +1,39 @@
 {
  "version": 1,
- "generated_at": "2026-11-16T12:40:02Z",
+ "generated_at": "2026-11-17T13:14:49Z",
  "days": [
+  {
+   "date": "2026-11-17",
+   "items": [
+    {
+     "category": "crypto",
+     "title": "Čip pro krádež kryptoměn byl propašován i do českých peněženek. Výrobce z Prahy včas zasáhl",
+     "summary": "Letos v říjnu se objevila závažná bezpečnostní kauza. Útočníci upravili hardwarové krypto peněženky Ledger, které se skrze CryptoBilis se dostaly k uživatelům. Do zařízení byla vložena deska plošných spojů, která pomocí vestavěné eSIM a mobilní sítě útočníkům odeslala 24slovný seed.",
+     "source": "Lupa.cz",
+     "url": "https://www.lupa.cz/aktuality/cip-pro-kradez-kryptomen-byl-propasovan-i-do-ceskych-penezenek-vyrobce-z-prahy-vcas-zasahl/?utm_source=rss&utm_medium=text&utm_campaign=rss",
+     "published_at": "2026-11-17T11:17:46Z",
+     "coverage": []
+    },
+    {
+     "category": "tech",
+     "title": "Nejžádanější profese ve světě umělé inteligence? Experti na kontrašpionáž, kteří si vydělají miliony ročně",
+     "summary": "Anthropic letos najal na kontrašpionážní pozice 33 lidí, třikrát víc než před dvěma lety. Bývalé agenty shánějí také OpenAI, Nvidia či ASML.",
+     "source": "CzechCrunch",
+     "url": "https://cc.cz/nejzadanejsi-profese-ve-svete-umele-inteligence-experti-na-kontraspionaz-kteri-si-vydelaji-miliony-rocne/",
+     "published_at": "2026-11-17T06:47:11Z",
+     "coverage": []
+    },
+    {
+     "category": "security",
+     "title": "Antivirus: Nic jste neprovedli, ale internet vás považuje za hackera. Na vině může být vaše IP adresa",
+     "summary": "Nic podezřelého jste na internetu nedělali, ale najednou na vás internetové služby koukají skoro jako na hackera. Máte problém si založit účet, zaplatit kartou a neustále musíte potvrzovat, že nejste robot. Co se mohlo stát?",
+     "source": "iROZHLAS",
+     "url": "https://www.irozhlas.cz/veda-technologie/technologie/antivirus-nic-jste-neprovedli-ale-internet-vas-povazuje-za-hackera-na-vine-muze_2611161944_elv",
+     "published_at": "2026-11-16T18:44:00Z",
+     "coverage": []
+    }
+   ]
+  },
   {
    "date": "2026-11-16",
    "items": [
@@ -62,38 +94,6 @@
      "source": "Živě.cz",
      "url": "https://vtm.zive.cz/clanky/umela-inteligence-odhali-vytluky-driv-nez-se-zvetsi-silnice-lze-mikrovlnami-opravovat-i-v-mrazu/sc-870-a-244445/default.aspx",
      "published_at": "2026-11-14T10:45:00Z",
-     "coverage": []
-    }
-   ]
-  },
-  {
-   "date": "2026-11-14",
-   "items": [
-    {
-     "category": "security",
-     "title": "Microsoft obnovil fungování svých služeb, o kybernetický útok nešlo. Výpadek zasáhl i Česko",
-     "summary": "Americká softwarová společnost Microsoft po pátečním celodenním výpadku obnovila funkčnost všech svých služeb. Oznámila to v příspěvku na sociální síti X. Výpadek zasáhl jak domácnosti, tak firmy a státní úřady, a to po celém světě včetně Česka.",
-     "source": "iROZHLAS",
-     "url": "https://www.irozhlas.cz/veda-technologie/technologie/microsoft-obnovil-fungovani-svych-sluzeb-o-kyberneticky-utok-neslo-vypadek_2611140939_aln",
-     "published_at": "2026-11-14T08:39:00Z",
-     "coverage": []
-    },
-    {
-     "category": "security",
-     "title": "Univerzitu Karlovu napadli hackeři. Měli získat část údajů ze studijního systému",
-     "summary": "Univerzita Karlova řeší v posledních dnech kybernetický incident. Škola uvedla, že se útočníkům podařilo proniknout přes napadenou webovou aplikaci do centrálního Studijního informačního systému (SIS). „Dosavadní technické šetření potvrdilo, že útočník neoprávněně získal a stáhl část údajů evidovaných v SIS, včetně osobních údajů.",
-     "source": "Lupa.cz",
-     "url": "https://www.lupa.cz/aktuality/univerzitu-karlovu-napadli-hackeri-meli-ziskat-cast-udaju-ze-studijniho-systemu/?utm_source=rss&utm_medium=text&utm_campaign=rss",
-     "published_at": "2026-11-13T11:07:40Z",
-     "coverage": []
-    },
-    {
-     "category": "security",
-     "title": "Čech ze Stanfordu vyzval Teslu, česká firma vybavila nejvyšší mrakodrap, Yandex po útoku dronů přišel o data",
-     "summary": "Modely Anthropic Mythos a Fable 5.2 jsou zde. 24GB Nvidia RTX 5080 nebude. EU jde proti nekalým praktikám na webu.",
-     "source": "Lupa.cz",
-     "url": "https://www.lupa.cz/clanky/cech-ze-stanfordu-vyzval-teslu-ceska-firma-vybavila-nejvyssi-mrakodrap-yandex-po-utoku-dronu-prisel-o-data/?utm_source=rss&utm_medium=text&utm_campaign=rss",
-     "published_at": "2026-11-13T05:30:00Z",
      "coverage": []
     }
    ]
