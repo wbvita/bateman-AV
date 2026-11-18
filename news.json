@@ -1,7 +1,39 @@
 {
  "version": 1,
- "generated_at": "2026-11-17T13:14:49Z",
+ "generated_at": "2026-11-18T12:58:27Z",
  "days": [
+  {
+   "date": "2026-11-18",
+   "items": [
+    {
+     "category": "crypto",
+     "title": "Čip pro krádež kryptoměn byl propašován i do českých peněženek. Výrobce z Prahy včas zasáhl",
+     "summary": "Letos v říjnu se objevila závažná bezpečnostní kauza. Útočníci upravili hardwarové krypto peněženky Ledger, které se skrze CryptoBilis se dostaly k uživatelům. Do zařízení byla vložena deska plošných spojů, která pomocí vestavěné eSIM a mobilní sítě útočníkům odeslala 24slovný seed.",
+     "source": "Lupa.cz",
+     "url": "https://www.lupa.cz/aktuality/cip-pro-kradez-kryptomen-byl-propasovan-i-do-ceskych-penezenek-vyrobce-z-prahy-vcas-zasahl/?utm_source=rss&utm_medium=text&utm_campaign=rss",
+     "published_at": "2026-11-17T11:17:46Z",
+     "coverage": []
+    },
+    {
+     "category": "security",
+     "title": "Navštívili jste v poslední době tyto weby? Vaše údaje už možná mají hackeři",
+     "summary": "Ani návštěva renomovaných webů, třeba zpravodajských portálů, nebo předních firem, může přinést problémy. Ukázkovým příkladem je stále se rozrůstající kauza útoku na celou řadu webů a služeb ze začátku tohoto týdne. Co se stalo V pondělí 16.",
+     "source": "Živě.cz",
+     "url": "https://www.zive.cz/clanky/navstivili-jste-v-posledni-dobe-tyto-weby-vase-udaje-uz-mozna-maji-hackeri/sc-3-a-244491/default.aspx",
+     "published_at": "2026-11-18T09:45:00Z",
+     "coverage": []
+    },
+    {
+     "category": "ai",
+     "title": "Google výrazně zlepšil AI. Gemini 4 Hydrogen přináší lepší a hezčí výsledky, je i rychlejší",
+     "summary": "Google uvedl Gemini 4 Hydrogen, rychlejší a levnější model pro každodenní úkoly. • Výrazně vylepšuje programování, práci s AI agenty i zpracování dokumentů. • V řadě benchmarků překonává konkurenční modely od OpenAI i Anthropicu.",
+     "source": "Živě.cz",
+     "url": "https://www.zive.cz/clanky/google-vyrazne-zlepsil-ai-gemini-4-hydrogen-prinasi-lepsi-a-hezci-vysledky-je-i-rychlejsi/sc-3-a-244472/default.aspx",
+     "published_at": "2026-11-17T14:45:00Z",
+     "coverage": []
+    }
+   ]
+  },
   {
    "date": "2026-11-17",
    "items": [
@@ -62,38 +94,6 @@
      "source": "iROZHLAS",
      "url": "https://www.irozhlas.cz/veda-technologie/jak-umela-inteligence-hlida-zrak-diabetiku-a-jsou-operace-ucinnejsi-nez-moderni_2611160010_bod",
      "published_at": "2026-11-15T23:10:00Z",
-     "coverage": []
-    }
-   ]
-  },
-  {
-   "date": "2026-11-15",
-   "items": [
-    {
-     "category": "security",
-     "title": "Microsoft obnovil fungování svých služeb, o kybernetický útok nešlo. Výpadek zasáhl i Česko",
-     "summary": "Americká softwarová společnost Microsoft po pátečním celodenním výpadku obnovila funkčnost všech svých služeb. Oznámila to v příspěvku na sociální síti X. Výpadek zasáhl jak domácnosti, tak firmy a státní úřady, a to po celém světě včetně Česka.",
-     "source": "iROZHLAS",
-     "url": "https://www.irozhlas.cz/veda-technologie/technologie/microsoft-obnovil-fungovani-svych-sluzeb-o-kyberneticky-utok-neslo-vypadek_2611140939_aln",
-     "published_at": "2026-11-14T08:39:00Z",
-     "coverage": []
-    },
-    {
-     "category": "ai",
-     "title": "AI agenti rozjeli vlnu propouštění, ale i obří příležitosti. První české firmy díky nim mají miliardové tržby",
-     "summary": "Dva české startupy těží z nástupu AI agentů a jejich roční tržby už se počítají v miliardách korun. • Firmu E2B založenou absolventy Matfyzu využívají Meta, Xiaomi i Hugging Face, investoři do ní vložili 740 milionů korun. • Apify od začátku roku zdvojnásobila tržby a teď míří na stovky ...",
-     "source": "Živě.cz",
-     "url": "https://www.zive.cz/clanky/ai-agenti-rozjeli-vlnu-propousteni-ale-i-obri-prilezitosti-prvni-ceske-firmy-diky-nim-maji-miliardove-trzby/sc-3-a-244431/default.aspx",
-     "published_at": "2026-11-14T12:45:00Z",
-     "coverage": []
-    },
-    {
-     "category": "ai",
-     "title": "Umělá inteligence odhalí výtluky dřív, než se zvětší. Silnice lze mikrovlnami opravovat i v mrazu",
-     "summary": "Umělá inteligence v autech silničářů včas odhaluje začínající výtluky na vozovkách • Během necelého měsíce kamery zmapovaly 470 kilometrů silnic a našly 76 děr • Mikrovlnná technologie dokáže bezespárově opravit asfalt i při teplotách -7 °C",
-     "source": "Živě.cz",
-     "url": "https://vtm.zive.cz/clanky/umela-inteligence-odhali-vytluky-driv-nez-se-zvetsi-silnice-lze-mikrovlnami-opravovat-i-v-mrazu/sc-870-a-244445/default.aspx",
-     "published_at": "2026-11-14T10:45:00Z",
      "coverage": []
     }
    ]
