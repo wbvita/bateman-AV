@@ -1,7 +1,39 @@
 {
  "version": 1,
- "generated_at": "2026-11-18T12:58:27Z",
+ "generated_at": "2026-11-19T12:56:14Z",
  "days": [
+  {
+   "date": "2026-11-19",
+   "items": [
+    {
+     "category": "ai",
+     "title": "Anthropic překonal SpaceX. Zakladatelé odešli z OpenAI, stvořili AI Claude a za pouhé tři roky mají rekordní vstup na burzu",
+     "summary": "V červnu žasnul svět, když Muskova SpaceX vstoupila na burzu a získala 75 miliard dolarů. Nejvíce v historii. Ale rekord nevydržel dlouho.",
+     "source": "Živě.cz",
+     "url": "https://www.zive.cz/clanky/anthropic-prekonal-spacex-zakladatele-odesli-z-openai-stvorili-ai-claude-a-za-pouhe-tri-roky-maji-rekordni-vstup-na-burzu/sc-3-a-244529/default.aspx",
+     "published_at": "2026-11-19T08:45:00Z",
+     "coverage": []
+    },
+    {
+     "category": "ai",
+     "title": "Dochází AI boomu dech? Ani náhodou, pochyby rozehnal Anthropic, o jeho akcie je obří zájem",
+     "summary": "Emise byla sedmkrát přeupsaná. Spolu se soukromým úpisem pro Amazon, Google a Nvidii získá Anthropic 107 miliard dolarů.",
+     "source": "CzechCrunch",
+     "url": "https://cc.cz/zdalo-se-ze-ai-boomu-dochazi-dech-anthropic-ale-pochyby-rozehnal-o-jeho-akcie-je-obri-zajem/",
+     "published_at": "2026-11-19T07:33:09Z",
+     "coverage": []
+    },
+    {
+     "category": "security",
+     "title": "Navštívili jste v poslední době tyto weby? Vaše údaje už možná mají hackeři",
+     "summary": "Ani návštěva renomovaných webů, třeba zpravodajských portálů, nebo předních firem, může přinést problémy. Ukázkovým příkladem je stále se rozrůstající kauza útoku na celou řadu webů a služeb ze začátku tohoto týdne. Co se stalo V pondělí 16.",
+     "source": "Živě.cz",
+     "url": "https://www.zive.cz/clanky/navstivili-jste-v-posledni-dobe-tyto-weby-vase-udaje-uz-mozna-maji-hackeri/sc-3-a-244491/default.aspx",
+     "published_at": "2026-11-18T09:45:00Z",
+     "coverage": []
+    }
+   ]
+  },
   {
    "date": "2026-11-18",
    "items": [
@@ -62,38 +94,6 @@
      "source": "iROZHLAS",
      "url": "https://www.irozhlas.cz/veda-technologie/technologie/antivirus-nic-jste-neprovedli-ale-internet-vas-povazuje-za-hackera-na-vine-muze_2611161944_elv",
      "published_at": "2026-11-16T18:44:00Z",
-     "coverage": []
-    }
-   ]
-  },
-  {
-   "date": "2026-11-16",
-   "items": [
-    {
-     "category": "ai",
-     "title": "Jeho firma za 50 miliard zkrachovala, tak založil další. Teď ji kupuje OpenAI, aby změnila svět cestování",
-     "summary": "Začínal pronájmem studentského bytu, později vedl firmu za miliardy dolarů. Po jejím pádu vsadil na AI, která pomáhá lidem naplánovat dovolenou.",
-     "source": "CzechCrunch",
-     "url": "https://cc.cz/jeho-firma-za-50-miliard-zkrachovala-tak-zalozil-dalsi-ted-ji-kupuje-openai-aby-zmenila-svet-cestovani/",
-     "published_at": "2026-11-16T05:27:20Z",
-     "coverage": []
-    },
-    {
-     "category": "ai",
-     "title": "Český investor dostal zelenou na svůj životní projekt. Může začít stavět obří AI datacentrum ve Finsku",
-     "summary": "Pražská Gi21 Capital získala stavební povolení pro AI datacentrum ve Finsku s výkonem 100 megawattů. • Stavět začne v první polovině roku 2027, komplex za více než 10 miliard korun má být hotový v roce 2028. • Damir Špoljarič chce v Evropě postavit osm datacenter, investice by mohla dosáhnout ...",
-     "source": "Živě.cz",
-     "url": "https://www.zive.cz/clanky/cesky-investor-dostal-zelenou-na-svuj-zivotni-projekt-muze-zacit-stavet-obri-ai-datacentrum-ve-finsku/sc-3-a-244449/default.aspx",
-     "published_at": "2026-11-16T07:45:00Z",
-     "coverage": []
-    },
-    {
-     "category": "ai",
-     "title": "Jak umělá inteligence hlídá zrak diabetiků? A jsou operace účinnější než moderní léky na obezitu?",
-     "summary": "Paní Karolína žije s cukrovkou prvního typu už 27 let. Díky moderní inzulinové pumpě a senzoru, který nepřetržitě sleduje hladinu glukózy, se jí daří nemoc lépe zvládat. Nově jí navíc přímo v diabetologické ordinaci kontroluje zrak umělá inteligence.",
-     "source": "iROZHLAS",
-     "url": "https://www.irozhlas.cz/veda-technologie/jak-umela-inteligence-hlida-zrak-diabetiku-a-jsou-operace-ucinnejsi-nez-moderni_2611160010_bod",
-     "published_at": "2026-11-15T23:10:00Z",
      "coverage": []
     }
    ]
