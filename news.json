@@ -1,7 +1,42 @@
 {
  "version": 1,
- "generated_at": "2026-11-19T12:56:14Z",
+ "generated_at": "2026-11-20T12:48:37Z",
  "days": [
+  {
+   "date": "2026-11-20",
+   "items": [
+    {
+     "category": "ai",
+     "title": "Anthropic překonal SpaceX. Zakladatelé odešli z OpenAI, stvořili AI Claude a za pouhé tři roky mají rekordní vstup na burzu",
+     "summary": "V červnu žasnul svět, když Muskova SpaceX vstoupila na burzu a získala 75 miliard dolarů. Nejvíce v historii. Ale rekord nevydržel dlouho.",
+     "source": "Živě.cz",
+     "url": "https://www.zive.cz/clanky/anthropic-prekonal-spacex-zakladatele-odesli-z-openai-stvorili-ai-claude-a-za-pouhe-tri-roky-maji-rekordni-vstup-na-burzu/sc-3-a-244529/default.aspx",
+     "published_at": "2026-11-19T08:45:00Z",
+     "coverage": []
+    },
+    {
+     "category": "tech",
+     "title": "Více než čtyři terabity dat za vteřinu. Český internet zaznamenal kvůli stahování GTA 6 rekordní provoz",
+     "summary": "Český internet zaznamenal v souvislosti s uvedením dlouho očekávané hry Grand Theft Auto 6 (GTA 6) ve středu večer rekordní provoz. Hlavním tuzemským uzlem NIX.CZ protékaly více než čtyři terabity dat za vteřinu, což je dosud nejvíce. Internetový provoz tak překonal dosavadní špičku při přenosu z loňského hokejového mistrovství světa.",
+     "source": "iROZHLAS",
+     "url": "https://www.irozhlas.cz/veda-technologie/technologie/vice-nez-ctyri-terabity-dat-za-vterinu-cesky-internet-zaznamenal-kvuli-stahovani_2611191645_cen",
+     "published_at": "2026-11-19T15:45:00Z",
+     "coverage": [
+      "iROZHLAS",
+      "Živě.cz"
+     ]
+    },
+    {
+     "category": "ai",
+     "title": "Češi postaví velké AI datacentrum ve Finsku, Jensen Huang chce zpět do Nvidie, Anthropic úspěšně vstoupil na burzu",
+     "summary": "Nvidia dál láme rekordy. Nový AI model Gemini 4 Hydrogen. Demis Hassabis získal pět miliard dolarů na AI vývoj léků.",
+     "source": "Lupa.cz",
+     "url": "https://www.lupa.cz/clanky/cesi-postavi-velke-ai-datacentrum-ve-finsku-jensen-huang-chce-zpet-do-nvidie-anthropic-uspesne-vstoupil-na-burzu/?utm_source=rss&utm_medium=text&utm_campaign=rss",
+     "published_at": "2026-11-20T05:30:00Z",
+     "coverage": []
+    }
+   ]
+  },
   {
    "date": "2026-11-19",
    "items": [
@@ -62,38 +97,6 @@
      "source": "Živě.cz",
      "url": "https://www.zive.cz/clanky/google-vyrazne-zlepsil-ai-gemini-4-hydrogen-prinasi-lepsi-a-hezci-vysledky-je-i-rychlejsi/sc-3-a-244472/default.aspx",
      "published_at": "2026-11-17T14:45:00Z",
-     "coverage": []
-    }
-   ]
-  },
-  {
-   "date": "2026-11-17",
-   "items": [
-    {
-     "category": "crypto",
-     "title": "Čip pro krádež kryptoměn byl propašován i do českých peněženek. Výrobce z Prahy včas zasáhl",
-     "summary": "Letos v říjnu se objevila závažná bezpečnostní kauza. Útočníci upravili hardwarové krypto peněženky Ledger, které se skrze CryptoBilis se dostaly k uživatelům. Do zařízení byla vložena deska plošných spojů, která pomocí vestavěné eSIM a mobilní sítě útočníkům odeslala 24slovný seed.",
-     "source": "Lupa.cz",
-     "url": "https://www.lupa.cz/aktuality/cip-pro-kradez-kryptomen-byl-propasovan-i-do-ceskych-penezenek-vyrobce-z-prahy-vcas-zasahl/?utm_source=rss&utm_medium=text&utm_campaign=rss",
-     "published_at": "2026-11-17T11:17:46Z",
-     "coverage": []
-    },
-    {
-     "category": "tech",
-     "title": "Nejžádanější profese ve světě umělé inteligence? Experti na kontrašpionáž, kteří si vydělají miliony ročně",
-     "summary": "Anthropic letos najal na kontrašpionážní pozice 33 lidí, třikrát víc než před dvěma lety. Bývalé agenty shánějí také OpenAI, Nvidia či ASML.",
-     "source": "CzechCrunch",
-     "url": "https://cc.cz/nejzadanejsi-profese-ve-svete-umele-inteligence-experti-na-kontraspionaz-kteri-si-vydelaji-miliony-rocne/",
-     "published_at": "2026-11-17T06:47:11Z",
-     "coverage": []
-    },
-    {
-     "category": "security",
-     "title": "Antivirus: Nic jste neprovedli, ale internet vás považuje za hackera. Na vině může být vaše IP adresa",
-     "summary": "Nic podezřelého jste na internetu nedělali, ale najednou na vás internetové služby koukají skoro jako na hackera. Máte problém si založit účet, zaplatit kartou a neustále musíte potvrzovat, že nejste robot. Co se mohlo stát?",
-     "source": "iROZHLAS",
-     "url": "https://www.irozhlas.cz/veda-technologie/technologie/antivirus-nic-jste-neprovedli-ale-internet-vas-povazuje-za-hackera-na-vine-muze_2611161944_elv",
-     "published_at": "2026-11-16T18:44:00Z",
      "coverage": []
     }
    ]
