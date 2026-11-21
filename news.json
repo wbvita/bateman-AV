@@ -1,7 +1,39 @@
 {
  "version": 1,
- "generated_at": "2026-11-20T12:48:37Z",
+ "generated_at": "2026-11-21T12:33:56Z",
  "days": [
+  {
+   "date": "2026-11-21",
+   "items": [
+    {
+     "category": "tech",
+     "title": "Nelegální české kryptokasino vydělalo čtvrt miliardy. Policie zasáhla proti desítkám lidí",
+     "summary": "Brněnští celníci a kriminalisté z Národní centrály proti organizovanému zločinu (NCOZ) zasáhli proti skupině, která podle vyšetřovatelů neoprávněně provozovala internetový hazard přes kryptoměny. Získané peníze se zatím odhadují na zhruba 267 milionů korun. Jde o první český případ zaměřený na takzvané decentralizované online kasino běžící na blockchainu.",
+     "source": "Lupa.cz",
+     "url": "https://www.lupa.cz/aktuality/nelegalni-ceske-kryptokasino-vydelalo-ctvrt-miliardy-policie-zasahla-proti-desitkam-lidi/?utm_source=rss&utm_medium=text&utm_campaign=rss",
+     "published_at": "2026-11-20T12:02:29Z",
+     "coverage": []
+    },
+    {
+     "category": "tech",
+     "title": "Microsoft vylepšil funkci Pokračovat z mobilu. Do Windows dostanete otevřený web i rozepsané poznámky",
+     "summary": "Z telefonu do Windows přenesete webovou stránku z prohlížeče Samsung Internet • Zobrazíte si i poznámky z mobilu, přenos je ale stále jednosměrný • Podporovaných aplikací je jen pár, o řadě z nich ani Microsoft neví",
+     "source": "Živě.cz",
+     "url": "https://mobilmania.zive.cz/clanky/microsoft-vylepsil-funkci-pokracovat-z-mobilu-do-windows-dostanete-otevreny-web-i-rozepsane-poznamky/sc-3-a-1365721/default.aspx",
+     "published_at": "2026-11-21T09:45:00Z",
+     "coverage": []
+    },
+    {
+     "category": "tech",
+     "title": "Videohra Grand Theft Auto 6 za první den dosáhla rekordních tržeb 3,79 miliardy dolarů",
+     "summary": "Videohra GTA 6 za první den dosáhla rekordních tržeb 3,79 miliardy dolarů (85,5 miliardy Kč). Studio Rockstar Games, jež za hrou stojí, to uvedlo v tiskové zprávě. Číslo vychází z odhadů společnosti ke konci čtvrtka, kdy hra po 13 letech vyšla.",
+     "source": "iROZHLAS",
+     "url": "https://www.irozhlas.cz/veda-technologie/technologie/videohra-grad-theft-auto-6-za-prvni-den-dosahla-rekordnich-trzeb-379-miliardy_2611202158_cen",
+     "published_at": "2026-11-20T20:58:00Z",
+     "coverage": []
+    }
+   ]
+  },
   {
    "date": "2026-11-20",
    "items": [
@@ -65,38 +97,6 @@
      "source": "Živě.cz",
      "url": "https://www.zive.cz/clanky/navstivili-jste-v-posledni-dobe-tyto-weby-vase-udaje-uz-mozna-maji-hackeri/sc-3-a-244491/default.aspx",
      "published_at": "2026-11-18T09:45:00Z",
-     "coverage": []
-    }
-   ]
-  },
-  {
-   "date": "2026-11-18",
-   "items": [
-    {
-     "category": "crypto",
-     "title": "Čip pro krádež kryptoměn byl propašován i do českých peněženek. Výrobce z Prahy včas zasáhl",
-     "summary": "Letos v říjnu se objevila závažná bezpečnostní kauza. Útočníci upravili hardwarové krypto peněženky Ledger, které se skrze CryptoBilis se dostaly k uživatelům. Do zařízení byla vložena deska plošných spojů, která pomocí vestavěné eSIM a mobilní sítě útočníkům odeslala 24slovný seed.",
-     "source": "Lupa.cz",
-     "url": "https://www.lupa.cz/aktuality/cip-pro-kradez-kryptomen-byl-propasovan-i-do-ceskych-penezenek-vyrobce-z-prahy-vcas-zasahl/?utm_source=rss&utm_medium=text&utm_campaign=rss",
-     "published_at": "2026-11-17T11:17:46Z",
-     "coverage": []
-    },
-    {
-     "category": "security",
-     "title": "Navštívili jste v poslední době tyto weby? Vaše údaje už možná mají hackeři",
-     "summary": "Ani návštěva renomovaných webů, třeba zpravodajských portálů, nebo předních firem, může přinést problémy. Ukázkovým příkladem je stále se rozrůstající kauza útoku na celou řadu webů a služeb ze začátku tohoto týdne. Co se stalo V pondělí 16.",
-     "source": "Živě.cz",
-     "url": "https://www.zive.cz/clanky/navstivili-jste-v-posledni-dobe-tyto-weby-vase-udaje-uz-mozna-maji-hackeri/sc-3-a-244491/default.aspx",
-     "published_at": "2026-11-18T09:45:00Z",
-     "coverage": []
-    },
-    {
-     "category": "ai",
-     "title": "Google výrazně zlepšil AI. Gemini 4 Hydrogen přináší lepší a hezčí výsledky, je i rychlejší",
-     "summary": "Google uvedl Gemini 4 Hydrogen, rychlejší a levnější model pro každodenní úkoly. • Výrazně vylepšuje programování, práci s AI agenty i zpracování dokumentů. • V řadě benchmarků překonává konkurenční modely od OpenAI i Anthropicu.",
-     "source": "Živě.cz",
-     "url": "https://www.zive.cz/clanky/google-vyrazne-zlepsil-ai-gemini-4-hydrogen-prinasi-lepsi-a-hezci-vysledky-je-i-rychlejsi/sc-3-a-244472/default.aspx",
-     "published_at": "2026-11-17T14:45:00Z",
      "coverage": []
     }
    ]
