@@ -1,7 +1,39 @@
 {
  "version": 1,
- "generated_at": "2026-11-21T12:33:56Z",
+ "generated_at": "2026-11-22T12:31:04Z",
  "days": [
+  {
+   "date": "2026-11-22",
+   "items": [
+    {
+     "category": "ai",
+     "title": "Zaměstnanec Anthropicu tvrdí, že pomocí AI vyřešil slavný matematický problém. Vědce trápil přes 160 let",
+     "summary": "Matematik a zároveň zaměstnanec americké společnosti Anthropic Levent Alpöge tvrdí, že s pomocí jejího modelu umělé inteligence Claude našel důkaz Riemannovy hypotézy. Ta patří k nejslavnějším problémům matematiky a matematici ji nedokázali vyřešit přes 160 let, uvedla v sobotu agentura AP.",
+     "source": "iROZHLAS",
+     "url": "https://www.irozhlas.cz/veda-technologie/technologie/zamestnanec-anthropicu-tvrdi-ze-pomoci-ai-vyresil-slavny-matematicky-problem_2611211511_jor",
+     "published_at": "2026-11-21T14:11:00Z",
+     "coverage": []
+    },
+    {
+     "category": "tech",
+     "title": "Microsoft vylepšil funkci Pokračovat z mobilu. Do Windows dostanete otevřený web i rozepsané poznámky",
+     "summary": "Z telefonu do Windows přenesete webovou stránku z prohlížeče Samsung Internet • Zobrazíte si i poznámky z mobilu, přenos je ale stále jednosměrný • Podporovaných aplikací je jen pár, o řadě z nich ani Microsoft neví",
+     "source": "Živě.cz",
+     "url": "https://mobilmania.zive.cz/clanky/microsoft-vylepsil-funkci-pokracovat-z-mobilu-do-windows-dostanete-otevreny-web-i-rozepsane-poznamky/sc-3-a-1365721/default.aspx",
+     "published_at": "2026-11-21T09:45:00Z",
+     "coverage": []
+    },
+    {
+     "category": "science",
+     "title": "Elon Musk chce definitivně odstranit hluchá místa mobilního signálu. Na střechy domů umístí miniaturní vysílače SpaceX",
+     "summary": "SpaceX chystá miniaturní střešní vysílače pro lepší mobilní signál v budovách • Nové pozemní stanice v pásmu 800 MHz doplní družice druhé generace • Firma jedná také o pronájmu osmdesáti tisíc klasických vysílacích věží v USA",
+     "source": "Živě.cz",
+     "url": "https://mobilmania.zive.cz/clanky/elon-musk-chce-definitivne-odstranit-hlucha-mista-mobilniho-signalu-na-strechy-domu-umisti-miniaturni-vysilace-spacex/sc-3-a-1365746/default.aspx",
+     "published_at": "2026-11-22T09:45:00Z",
+     "coverage": []
+    }
+   ]
+  },
   {
    "date": "2026-11-21",
    "items": [
@@ -65,38 +97,6 @@
      "source": "Lupa.cz",
      "url": "https://www.lupa.cz/clanky/cesi-postavi-velke-ai-datacentrum-ve-finsku-jensen-huang-chce-zpet-do-nvidie-anthropic-uspesne-vstoupil-na-burzu/?utm_source=rss&utm_medium=text&utm_campaign=rss",
      "published_at": "2026-11-20T05:30:00Z",
-     "coverage": []
-    }
-   ]
-  },
-  {
-   "date": "2026-11-19",
-   "items": [
-    {
-     "category": "ai",
-     "title": "Anthropic překonal SpaceX. Zakladatelé odešli z OpenAI, stvořili AI Claude a za pouhé tři roky mají rekordní vstup na burzu",
-     "summary": "V červnu žasnul svět, když Muskova SpaceX vstoupila na burzu a získala 75 miliard dolarů. Nejvíce v historii. Ale rekord nevydržel dlouho.",
-     "source": "Živě.cz",
-     "url": "https://www.zive.cz/clanky/anthropic-prekonal-spacex-zakladatele-odesli-z-openai-stvorili-ai-claude-a-za-pouhe-tri-roky-maji-rekordni-vstup-na-burzu/sc-3-a-244529/default.aspx",
-     "published_at": "2026-11-19T08:45:00Z",
-     "coverage": []
-    },
-    {
-     "category": "ai",
-     "title": "Dochází AI boomu dech? Ani náhodou, pochyby rozehnal Anthropic, o jeho akcie je obří zájem",
-     "summary": "Emise byla sedmkrát přeupsaná. Spolu se soukromým úpisem pro Amazon, Google a Nvidii získá Anthropic 107 miliard dolarů.",
-     "source": "CzechCrunch",
-     "url": "https://cc.cz/zdalo-se-ze-ai-boomu-dochazi-dech-anthropic-ale-pochyby-rozehnal-o-jeho-akcie-je-obri-zajem/",
-     "published_at": "2026-11-19T07:33:09Z",
-     "coverage": []
-    },
-    {
-     "category": "security",
-     "title": "Navštívili jste v poslední době tyto weby? Vaše údaje už možná mají hackeři",
-     "summary": "Ani návštěva renomovaných webů, třeba zpravodajských portálů, nebo předních firem, může přinést problémy. Ukázkovým příkladem je stále se rozrůstající kauza útoku na celou řadu webů a služeb ze začátku tohoto týdne. Co se stalo V pondělí 16.",
-     "source": "Živě.cz",
-     "url": "https://www.zive.cz/clanky/navstivili-jste-v-posledni-dobe-tyto-weby-vase-udaje-uz-mozna-maji-hackeri/sc-3-a-244491/default.aspx",
-     "published_at": "2026-11-18T09:45:00Z",
      "coverage": []
     }
    ]
