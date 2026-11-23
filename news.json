@@ -1,7 +1,39 @@
 {
  "version": 1,
- "generated_at": "2026-11-22T12:31:04Z",
+ "generated_at": "2026-11-23T14:29:54Z",
  "days": [
+  {
+   "date": "2026-11-23",
+   "items": [
+    {
+     "category": "security",
+     "title": "Z další známé značky v české e-commerce unikla data zákazníků, útok zasáhl Dedoles",
+     "summary": "Zákazníci e-shopu Dedoles se musí mít na pozoru před podvodnými e-maily, SMS a telefonáty. E-shop zákazníkům oznámil, že při kybernetickém útoku na jeho dodavatele, slovenskou marketingovou a digitální agenturu ui42, získala neoprávněná osoba kopii dat ze staršího systému internetového obchodu Dedoles.",
+     "source": "Lupa.cz",
+     "url": "https://www.lupa.cz/aktuality/z-dalsi-zname-znacky-ceske-e-commerce-unikla-data-zakazniku-utok-zasahl-dedoles/?utm_source=rss&utm_medium=text&utm_campaign=rss",
+     "published_at": "2026-11-23T12:24:22Z",
+     "coverage": []
+    },
+    {
+     "category": "tech",
+     "title": "Google a Samsung konečně přidávají zámek aplikací. U jiných značek je to už dávno běžná funkce",
+     "summary": "Samsung a Google konečně chystají zamykání aplikací bez oddělených profilů • Zamčená aplikace skryje obsah notifikací, smaže widgety a další stopy • Novinka dorazí v Androidu 17 QPR3 a One UI 9.5, starší Pixely ostrouhají",
+     "source": "Živě.cz",
+     "url": "https://mobilmania.zive.cz/clanky/google-a-samsung-konecne-pridavaji-zamek-aplikaci-u-ostatnich-je-to-uz-davno-bezna-funkce/sc-3-a-1365745/default.aspx",
+     "published_at": "2026-11-23T08:15:00Z",
+     "coverage": []
+    },
+    {
+     "category": "science",
+     "title": "Elon Musk chce definitivně odstranit hluchá místa mobilního signálu. Na střechy domů umístí miniaturní vysílače SpaceX",
+     "summary": "SpaceX chystá miniaturní střešní vysílače pro lepší mobilní signál v budovách • Nové pozemní stanice v pásmu 800 MHz doplní družice druhé generace • Firma jedná také o pronájmu osmdesáti tisíc klasických vysílacích věží v USA",
+     "source": "Živě.cz",
+     "url": "https://mobilmania.zive.cz/clanky/elon-musk-chce-definitivne-odstranit-hlucha-mista-mobilniho-signalu-na-strechy-domu-umisti-miniaturni-vysilace-spacex/sc-3-a-1365746/default.aspx",
+     "published_at": "2026-11-22T09:45:00Z",
+     "coverage": []
+    }
+   ]
+  },
   {
    "date": "2026-11-22",
    "items": [
@@ -62,41 +94,6 @@
      "source": "iROZHLAS",
      "url": "https://www.irozhlas.cz/veda-technologie/technologie/videohra-grad-theft-auto-6-za-prvni-den-dosahla-rekordnich-trzeb-379-miliardy_2611202158_cen",
      "published_at": "2026-11-20T20:58:00Z",
-     "coverage": []
-    }
-   ]
-  },
-  {
-   "date": "2026-11-20",
-   "items": [
-    {
-     "category": "ai",
-     "title": "Anthropic překonal SpaceX. Zakladatelé odešli z OpenAI, stvořili AI Claude a za pouhé tři roky mají rekordní vstup na burzu",
-     "summary": "V červnu žasnul svět, když Muskova SpaceX vstoupila na burzu a získala 75 miliard dolarů. Nejvíce v historii. Ale rekord nevydržel dlouho.",
-     "source": "Živě.cz",
-     "url": "https://www.zive.cz/clanky/anthropic-prekonal-spacex-zakladatele-odesli-z-openai-stvorili-ai-claude-a-za-pouhe-tri-roky-maji-rekordni-vstup-na-burzu/sc-3-a-244529/default.aspx",
-     "published_at": "2026-11-19T08:45:00Z",
-     "coverage": []
-    },
-    {
-     "category": "tech",
-     "title": "Více než čtyři terabity dat za vteřinu. Český internet zaznamenal kvůli stahování GTA 6 rekordní provoz",
-     "summary": "Český internet zaznamenal v souvislosti s uvedením dlouho očekávané hry Grand Theft Auto 6 (GTA 6) ve středu večer rekordní provoz. Hlavním tuzemským uzlem NIX.CZ protékaly více než čtyři terabity dat za vteřinu, což je dosud nejvíce. Internetový provoz tak překonal dosavadní špičku při přenosu z loňského hokejového mistrovství světa.",
-     "source": "iROZHLAS",
-     "url": "https://www.irozhlas.cz/veda-technologie/technologie/vice-nez-ctyri-terabity-dat-za-vterinu-cesky-internet-zaznamenal-kvuli-stahovani_2611191645_cen",
-     "published_at": "2026-11-19T15:45:00Z",
-     "coverage": [
-      "iROZHLAS",
-      "Živě.cz"
-     ]
-    },
-    {
-     "category": "ai",
-     "title": "Češi postaví velké AI datacentrum ve Finsku, Jensen Huang chce zpět do Nvidie, Anthropic úspěšně vstoupil na burzu",
-     "summary": "Nvidia dál láme rekordy. Nový AI model Gemini 4 Hydrogen. Demis Hassabis získal pět miliard dolarů na AI vývoj léků.",
-     "source": "Lupa.cz",
-     "url": "https://www.lupa.cz/clanky/cesi-postavi-velke-ai-datacentrum-ve-finsku-jensen-huang-chce-zpet-do-nvidie-anthropic-uspesne-vstoupil-na-burzu/?utm_source=rss&utm_medium=text&utm_campaign=rss",
-     "published_at": "2026-11-20T05:30:00Z",
      "coverage": []
     }
    ]
