@@ -1,7 +1,42 @@
 {
  "version": 1,
- "generated_at": "2026-11-24T14:47:31Z",
+ "generated_at": "2026-11-25T14:14:13Z",
  "days": [
+  {
+   "date": "2026-11-25",
+   "items": [
+    {
+     "category": "tech",
+     "title": "Evropská unie chystá protiofenzívu v umělé inteligenci a kvantech, má pomoct v přepočtu přes bilion korun",
+     "summary": "Evropská komise chce zásadně finančně podpořit rozvoj umělé inteligence a kvantových technologií. Komise představila „Quantum Act“ a také nový investiční nástroj Sovereign Tech Equity Fund (STEF), přes který mají proudit investice do umělé inteligence a kvanatové výpočetní techniky. Podle listu Financial Times má jeho objem dosáhnout 50 miliard eur, tedy v přepočtu přes 1,2 bilionu Kč.",
+     "source": "Lupa.cz",
+     "url": "https://www.lupa.cz/aktuality/evropska-unie-chysta-protiofenzivu-v-umele-inteligenci-a-kvantech-ma-pomoct-v-prepoctu-pres-bilion-korun/?utm_source=rss&utm_medium=text&utm_campaign=rss",
+     "published_at": "2026-11-25T13:46:39Z",
+     "coverage": []
+    },
+    {
+     "category": "ai",
+     "title": "Tvůrci od nás mají milion a půl dolarů měsíčně, popisuje Čech, který stvořil světové AI tržiště",
+     "summary": "Z Prahy a San Franciska buduje globální tržiště pro AI nástroje, využívá ho i Microsoft nebo Siemens. • Apify vyplácí vývojářům přes 1,5 milionu dolarů měsíčně. • Jan Čurn říká, že AI agenti brzy dostanou vlastní peněženky a začnou mezi sebou obchodovat.",
+     "source": "Živě.cz",
+     "url": "https://www.zive.cz/clanky/tvurci-od-nas-maji-milion-a-pul-dolaru-mesicne-popisuje-cech-ktery-stvoril-svetove-ai-trziste/sc-3-a-244623/default.aspx",
+     "published_at": "2026-11-24T15:45:00Z",
+     "coverage": []
+    },
+    {
+     "category": "tech",
+     "title": "Má váš vlak zpoždění? Aplikace Můj vlak nově dokáže „podržet“ navazující spoj",
+     "summary": "Oblíbená mobilní aplikace Můj vlak, kterou každý den využije kolem sto tisíce lidí, dostává novou užitečnou funkci. Lze si v ní ověřit, zda na vás ve stanici počká navazující spoj. Jde o funkci nazvanou Ověřit přípoj.",
+     "source": "Lupa.cz",
+     "url": "https://www.lupa.cz/aktuality/ma-vas-vlak-zpozdeni-aplikace-muj-vlak-nove-dokaze-podrzet-navazujici-spoj/?utm_source=rss&utm_medium=text&utm_campaign=rss",
+     "published_at": "2026-11-24T13:24:06Z",
+     "coverage": [
+      "Lupa.cz",
+      "Živě.cz"
+     ]
+    }
+   ]
+  },
   {
    "date": "2026-11-24",
    "items": [
@@ -58,38 +93,6 @@
      "source": "Živě.cz",
      "url": "https://mobilmania.zive.cz/clanky/google-a-samsung-konecne-pridavaji-zamek-aplikaci-u-ostatnich-je-to-uz-davno-bezna-funkce/sc-3-a-1365745/default.aspx",
      "published_at": "2026-11-23T08:15:00Z",
-     "coverage": []
-    },
-    {
-     "category": "science",
-     "title": "Elon Musk chce definitivně odstranit hluchá místa mobilního signálu. Na střechy domů umístí miniaturní vysílače SpaceX",
-     "summary": "SpaceX chystá miniaturní střešní vysílače pro lepší mobilní signál v budovách • Nové pozemní stanice v pásmu 800 MHz doplní družice druhé generace • Firma jedná také o pronájmu osmdesáti tisíc klasických vysílacích věží v USA",
-     "source": "Živě.cz",
-     "url": "https://mobilmania.zive.cz/clanky/elon-musk-chce-definitivne-odstranit-hlucha-mista-mobilniho-signalu-na-strechy-domu-umisti-miniaturni-vysilace-spacex/sc-3-a-1365746/default.aspx",
-     "published_at": "2026-11-22T09:45:00Z",
-     "coverage": []
-    }
-   ]
-  },
-  {
-   "date": "2026-11-22",
-   "items": [
-    {
-     "category": "ai",
-     "title": "Zaměstnanec Anthropicu tvrdí, že pomocí AI vyřešil slavný matematický problém. Vědce trápil přes 160 let",
-     "summary": "Matematik a zároveň zaměstnanec americké společnosti Anthropic Levent Alpöge tvrdí, že s pomocí jejího modelu umělé inteligence Claude našel důkaz Riemannovy hypotézy. Ta patří k nejslavnějším problémům matematiky a matematici ji nedokázali vyřešit přes 160 let, uvedla v sobotu agentura AP.",
-     "source": "iROZHLAS",
-     "url": "https://www.irozhlas.cz/veda-technologie/technologie/zamestnanec-anthropicu-tvrdi-ze-pomoci-ai-vyresil-slavny-matematicky-problem_2611211511_jor",
-     "published_at": "2026-11-21T14:11:00Z",
-     "coverage": []
-    },
-    {
-     "category": "tech",
-     "title": "Microsoft vylepšil funkci Pokračovat z mobilu. Do Windows dostanete otevřený web i rozepsané poznámky",
-     "summary": "Z telefonu do Windows přenesete webovou stránku z prohlížeče Samsung Internet • Zobrazíte si i poznámky z mobilu, přenos je ale stále jednosměrný • Podporovaných aplikací je jen pár, o řadě z nich ani Microsoft neví",
-     "source": "Živě.cz",
-     "url": "https://mobilmania.zive.cz/clanky/microsoft-vylepsil-funkci-pokracovat-z-mobilu-do-windows-dostanete-otevreny-web-i-rozepsane-poznamky/sc-3-a-1365721/default.aspx",
-     "published_at": "2026-11-21T09:45:00Z",
      "coverage": []
     },
     {
