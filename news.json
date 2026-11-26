@@ -1,7 +1,39 @@
 {
  "version": 1,
- "generated_at": "2026-11-25T14:14:13Z",
+ "generated_at": "2026-11-26T13:49:50Z",
  "days": [
+  {
+   "date": "2026-11-26",
+   "items": [
+    {
+     "category": "tech",
+     "title": "Evropská unie chystá protiofenzívu v umělé inteligenci a kvantech, má pomoct v přepočtu přes bilion korun",
+     "summary": "Evropská komise chce zásadně finančně podpořit rozvoj umělé inteligence a kvantových technologií. Komise představila „Quantum Act“ a také nový investiční nástroj Sovereign Tech Equity Fund (STEF), přes který mají proudit investice do umělé inteligence a kvanatové výpočetní techniky. Podle listu Financial Times má jeho objem dosáhnout 50 miliard eur, tedy v přepočtu přes 1,2 bilionu Kč.",
+     "source": "Lupa.cz",
+     "url": "https://www.lupa.cz/aktuality/evropska-unie-chysta-protiofenzivu-v-umele-inteligenci-a-kvantech-ma-pomoct-v-prepoctu-pres-bilion-korun/?utm_source=rss&utm_medium=text&utm_campaign=rss",
+     "published_at": "2026-11-25T13:46:39Z",
+     "coverage": []
+    },
+    {
+     "category": "security",
+     "title": "Chrání vaše hesla, ale sami mají máslo na hlavě. Hacker napadl 1Password",
+     "summary": "1Password hackli přes kompromitovaný zaměstnanecký účet. • Útočník získal zákaznické údaje, zdrojový kód i interní informace. • Hesla ani obsah trezorů podle firmy ohroženy nebyly.",
+     "source": "Živě.cz",
+     "url": "https://www.zive.cz/clanky/chrani-vase-hesla-ale-sami-maji-maslo-na-hlave-hacker-napadl-1password/sc-3-a-244666/default.aspx",
+     "published_at": "2026-11-26T07:45:00Z",
+     "coverage": []
+    },
+    {
+     "category": "security",
+     "title": "Kybernetické útoky mohly zasáhnout desítky lodí po celém světě. Podezření míří na Írán, důkazy ale chybí",
+     "summary": "Americké úřady vyšetřují kybernetické útoky až na 50 obchodních lodí a tankerů • Útočníci zneužívali zranitelnost FortiBleed v routerech Fortinet a přidali i výhrůžky • Hlavním podezřelým zůstává Írán, ale přímé důkazy chybí. V hledáčku je i Rusko",
+     "source": "Živě.cz",
+     "url": "https://vtm.zive.cz/clanky/kyberneticke-utoky-mohly-zasahnout-desitky-lodi-po-celem-svete-podezreni-miri-na-iran-dukazy-ale-chybi/sc-870-a-244655/default.aspx",
+     "published_at": "2026-11-26T06:45:00Z",
+     "coverage": []
+    }
+   ]
+  },
   {
    "date": "2026-11-25",
    "items": [
@@ -70,38 +102,6 @@
      "source": "CzechCrunch",
      "url": "https://cc.cz/dlouhe-roky-upozornuje-ze-ai-znici-lidstvo-ted-na-ni-vydelal-stovky-miliard-je-to-paradox-priznava/",
      "published_at": "2026-11-24T05:34:26Z",
-     "coverage": []
-    }
-   ]
-  },
-  {
-   "date": "2026-11-23",
-   "items": [
-    {
-     "category": "security",
-     "title": "Z další známé značky v české e-commerce unikla data zákazníků, útok zasáhl Dedoles",
-     "summary": "Zákazníci e-shopu Dedoles se musí mít na pozoru před podvodnými e-maily, SMS a telefonáty. E-shop zákazníkům oznámil, že při kybernetickém útoku na jeho dodavatele, slovenskou marketingovou a digitální agenturu ui42, získala neoprávněná osoba kopii dat ze staršího systému internetového obchodu Dedoles.",
-     "source": "Lupa.cz",
-     "url": "https://www.lupa.cz/aktuality/z-dalsi-zname-znacky-ceske-e-commerce-unikla-data-zakazniku-utok-zasahl-dedoles/?utm_source=rss&utm_medium=text&utm_campaign=rss",
-     "published_at": "2026-11-23T12:24:22Z",
-     "coverage": []
-    },
-    {
-     "category": "tech",
-     "title": "Google a Samsung konečně přidávají zámek aplikací. U jiných značek je to už dávno běžná funkce",
-     "summary": "Samsung a Google konečně chystají zamykání aplikací bez oddělených profilů • Zamčená aplikace skryje obsah notifikací, smaže widgety a další stopy • Novinka dorazí v Androidu 17 QPR3 a One UI 9.5, starší Pixely ostrouhají",
-     "source": "Živě.cz",
-     "url": "https://mobilmania.zive.cz/clanky/google-a-samsung-konecne-pridavaji-zamek-aplikaci-u-ostatnich-je-to-uz-davno-bezna-funkce/sc-3-a-1365745/default.aspx",
-     "published_at": "2026-11-23T08:15:00Z",
-     "coverage": []
-    },
-    {
-     "category": "science",
-     "title": "Elon Musk chce definitivně odstranit hluchá místa mobilního signálu. Na střechy domů umístí miniaturní vysílače SpaceX",
-     "summary": "SpaceX chystá miniaturní střešní vysílače pro lepší mobilní signál v budovách • Nové pozemní stanice v pásmu 800 MHz doplní družice druhé generace • Firma jedná také o pronájmu osmdesáti tisíc klasických vysílacích věží v USA",
-     "source": "Živě.cz",
-     "url": "https://mobilmania.zive.cz/clanky/elon-musk-chce-definitivne-odstranit-hlucha-mista-mobilniho-signalu-na-strechy-domu-umisti-miniaturni-vysilace-spacex/sc-3-a-1365746/default.aspx",
-     "published_at": "2026-11-22T09:45:00Z",
      "coverage": []
     }
    ]
