@@ -1,7 +1,30 @@
 {
  "version": 1,
- "generated_at": "2026-11-26T13:49:50Z",
+ "generated_at": "2026-11-27T13:47:11Z",
  "days": [
+  {
+   "date": "2026-11-27",
+   "items": [
+    {
+     "category": "science",
+     "title": "Musk dá všem dětem v USA akcie SpaceX, Huawei kradla a podváděla, čekání na evropský procesor z Brna",
+     "summary": "Evropské AI gigafactory brzdí papírování. Obří prodeje GTA 6. Akcie Anthropicu spadly pod hodnotu při úpisu.",
+     "source": "Lupa.cz",
+     "url": "https://www.lupa.cz/clanky/musk-da-vsem-detem-v-usa-akcie-spacex-huawei-kradla-a-podvadela-cekani-na-evropsky-procesor-z-brna/?utm_source=rss&utm_medium=text&utm_campaign=rss",
+     "published_at": "2026-11-27T05:30:00Z",
+     "coverage": []
+    },
+    {
+     "category": "tech",
+     "title": "Do jádra míří klíčový ovladač AMDXDNA 1.0 i lepší podpora více Intel GPU s velkou VRAM",
+     "summary": "Nový NTFS ovladač dostává podporu O_TMPFILE, volitelná blokace /proc/kcore pro vyšší bezpečnost, podpora Ryzen AI NPU10 a NPU11, identifikátory budoucích procesorů Intel Coral Rapids a Razor Lake, whitelist pro Xeony s možností Peer-To-Peer DMA.",
+     "source": "Root.cz",
+     "url": "https://www.root.cz/clanky/do-jadra-linux-miri-klicovy-ovladac-amdxdna-1-0-i-lepsi-podpora-vice-intel-gpu-s-velkou-vram/?utm_source=rss&utm_medium=text&utm_campaign=rss",
+     "published_at": "2026-11-26T23:00:00Z",
+     "coverage": []
+    }
+   ]
+  },
   {
    "date": "2026-11-26",
    "items": [
@@ -66,43 +89,6 @@
       "Lupa.cz",
       "Živě.cz"
      ]
-    }
-   ]
-  },
-  {
-   "date": "2026-11-24",
-   "items": [
-    {
-     "category": "tech",
-     "title": "Návrat Huanga do vedení Nvidie je špatný pro americkou korporátní kulturu, soudí novinář",
-     "summary": "Americký prezident Donald Trump uvítal návrat Jensena Huanga do čela amerického technologického giganta Nvidia. Sám k jeho návratu prý mohutně přispěl. „U Trumpa je těžké rozlišit, kdy činí kroky ve prospěch americké ekonomiky a jeho samotného,“ soudí v rozhovoru pro Radiožurnál zástupce šéfredaktora portálu CzechCrunch Luboš Kreč.",
-     "source": "iROZHLAS",
-     "url": "https://www.irozhlas.cz/veda-technologie/technologie/navrat-huanga-do-vedeni-nvidie-je-spatny-pro-americkou-korporatni-kulturu-soudi_2611241530_vdv",
-     "published_at": "2026-11-24T14:30:00Z",
-     "coverage": [
-      "CzechCrunch",
-      "Lupa.cz",
-      "iROZHLAS",
-      "Živě.cz"
-     ]
-    },
-    {
-     "category": "security",
-     "title": "Z další známé značky v české e-commerce unikla data zákazníků, útok zasáhl Dedoles",
-     "summary": "Zákazníci e-shopu Dedoles se musí mít na pozoru před podvodnými e-maily, SMS a telefonáty. E-shop zákazníkům oznámil, že při kybernetickém útoku na jeho dodavatele, slovenskou marketingovou a digitální agenturu ui42, získala neoprávněná osoba kopii dat ze staršího systému internetového obchodu Dedoles.",
-     "source": "Lupa.cz",
-     "url": "https://www.lupa.cz/aktuality/z-dalsi-zname-znacky-ceske-e-commerce-unikla-data-zakazniku-utok-zasahl-dedoles/?utm_source=rss&utm_medium=text&utm_campaign=rss",
-     "published_at": "2026-11-23T12:24:22Z",
-     "coverage": []
-    },
-    {
-     "category": "ai",
-     "title": "Dlouhé roky upozorňuje, že AI zničí lidstvo. Teď na ní vydělal stovky miliard. Je to paradox, přiznává",
-     "summary": "Estonec Jaan Tallinn vložil do Anthropicu zhruba miliardu korun. Po vstupu firmy na burzu má jeho podíl hodnotu kolem 340 miliard korun.",
-     "source": "CzechCrunch",
-     "url": "https://cc.cz/dlouhe-roky-upozornuje-ze-ai-znici-lidstvo-ted-na-ni-vydelal-stovky-miliard-je-to-paradox-priznava/",
-     "published_at": "2026-11-24T05:34:26Z",
-     "coverage": []
     }
    ]
   }
