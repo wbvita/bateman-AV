@@ -1,7 +1,30 @@
 {
  "version": 1,
- "generated_at": "2026-11-27T13:47:11Z",
+ "generated_at": "2026-11-28T12:55:05Z",
  "days": [
+  {
+   "date": "2026-11-28",
+   "items": [
+    {
+     "category": "ai",
+     "title": "Evropa má vlastní AI čip, který chce konkurovat Nvidii. Důležitou roli mělo sehrát i Brno",
+     "summary": "Evropa má vlastní čip pro umělou inteligenci, nizozemská Axelera chce konkurovat Nvidii nižší cenou. • Čip Titania vzešel z evropského projektu DARE, jehož součástí má být i procesor z Brna. • Brněnský Codasip ale změnil zaměření a není jasné, kdy svůj díl evropského čipového projektu dodá.",
+     "source": "Živě.cz",
+     "url": "https://www.zive.cz/clanky/evropa-ma-vlastni-ai-cip-ktery-chce-konkurovat-nvidii-dulezitou-roli-melo-sehrat-i-brno/sc-3-a-244690/default.aspx",
+     "published_at": "2026-11-27T17:45:00Z",
+     "coverage": []
+    },
+    {
+     "category": "tech",
+     "title": "Huawei se s mobily na globální trh jen tak nevrátí. A nepomůže mu ani založení nové dceřiné značky",
+     "summary": "Americký soud uznal Huawei vinným z krádeží technologií a obcházení sankcí • Firma vinu odmítá a proti rozsudku se odvolá, přesto jí při hrozí miliardové pokuty • Rozsudek komplikuje snahu značky o návrat na globální trh s telefony",
+     "source": "Živě.cz",
+     "url": "https://mobilmania.zive.cz/clanky/huawei-se-s-mobily-na-globalni-trh-jen-tak-nevrati-nepomuze-mu-ani-zalozeni-nove-dcerine-znacky/sc-3-a-1365773/default.aspx",
+     "published_at": "2026-11-28T09:45:00Z",
+     "coverage": []
+    }
+   ]
+  },
   {
    "date": "2026-11-27",
    "items": [
@@ -54,41 +77,6 @@
      "url": "https://vtm.zive.cz/clanky/kyberneticke-utoky-mohly-zasahnout-desitky-lodi-po-celem-svete-podezreni-miri-na-iran-dukazy-ale-chybi/sc-870-a-244655/default.aspx",
      "published_at": "2026-11-26T06:45:00Z",
      "coverage": []
-    }
-   ]
-  },
-  {
-   "date": "2026-11-25",
-   "items": [
-    {
-     "category": "tech",
-     "title": "Evropská unie chystá protiofenzívu v umělé inteligenci a kvantech, má pomoct v přepočtu přes bilion korun",
-     "summary": "Evropská komise chce zásadně finančně podpořit rozvoj umělé inteligence a kvantových technologií. Komise představila „Quantum Act“ a také nový investiční nástroj Sovereign Tech Equity Fund (STEF), přes který mají proudit investice do umělé inteligence a kvanatové výpočetní techniky. Podle listu Financial Times má jeho objem dosáhnout 50 miliard eur, tedy v přepočtu přes 1,2 bilionu Kč.",
-     "source": "Lupa.cz",
-     "url": "https://www.lupa.cz/aktuality/evropska-unie-chysta-protiofenzivu-v-umele-inteligenci-a-kvantech-ma-pomoct-v-prepoctu-pres-bilion-korun/?utm_source=rss&utm_medium=text&utm_campaign=rss",
-     "published_at": "2026-11-25T13:46:39Z",
-     "coverage": []
-    },
-    {
-     "category": "ai",
-     "title": "Tvůrci od nás mají milion a půl dolarů měsíčně, popisuje Čech, který stvořil světové AI tržiště",
-     "summary": "Z Prahy a San Franciska buduje globální tržiště pro AI nástroje, využívá ho i Microsoft nebo Siemens. • Apify vyplácí vývojářům přes 1,5 milionu dolarů měsíčně. • Jan Čurn říká, že AI agenti brzy dostanou vlastní peněženky a začnou mezi sebou obchodovat.",
-     "source": "Živě.cz",
-     "url": "https://www.zive.cz/clanky/tvurci-od-nas-maji-milion-a-pul-dolaru-mesicne-popisuje-cech-ktery-stvoril-svetove-ai-trziste/sc-3-a-244623/default.aspx",
-     "published_at": "2026-11-24T15:45:00Z",
-     "coverage": []
-    },
-    {
-     "category": "tech",
-     "title": "Má váš vlak zpoždění? Aplikace Můj vlak nově dokáže „podržet“ navazující spoj",
-     "summary": "Oblíbená mobilní aplikace Můj vlak, kterou každý den využije kolem sto tisíce lidí, dostává novou užitečnou funkci. Lze si v ní ověřit, zda na vás ve stanici počká navazující spoj. Jde o funkci nazvanou Ověřit přípoj.",
-     "source": "Lupa.cz",
-     "url": "https://www.lupa.cz/aktuality/ma-vas-vlak-zpozdeni-aplikace-muj-vlak-nove-dokaze-podrzet-navazujici-spoj/?utm_source=rss&utm_medium=text&utm_campaign=rss",
-     "published_at": "2026-11-24T13:24:06Z",
-     "coverage": [
-      "Lupa.cz",
-      "Živě.cz"
-     ]
     }
    ]
   }
